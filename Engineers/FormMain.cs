@@ -16,12 +16,15 @@ namespace Engineers
         private bool HideMiningOnlyBlueprints = false;
         private int displayedBluePrints = 0;
         static Components AllComponents = new Components();
-        static Blueprints AllBlueprints = new Blueprints();
+        //static Blueprints AllBlueprints = new Blueprints();
+        static Blueprints AllBlueprints;
         public delegate void InvokeDelegate();
 
         public FormMain()
         {
             InitializeComponent();
+
+            AllBlueprints = new Blueprints("blueprints.csv");
 
             Application.AddMessageFilter(new Filter());
 
@@ -161,9 +164,10 @@ namespace Engineers
 
                 //mining v no mining
                 bool miningRequired = false;
-                foreach (Component component in bp.RequiredComponents)
+                //foreach (Component component in bp.RequiredComponents)
+                foreach (Ingredient ing in bp.RequiredComponents)
                 {
-                    if (component.MeansOfAcquiring.ToLower().Contains("mining") && !component.MeansOfAcquiring.ToLower().Contains("prospecting"))
+                    if (ing.ingredientComponent.MeansOfAcquiring.ToLower().Contains("mining") && !ing.ingredientComponent.MeansOfAcquiring.ToLower().Contains("prospecting"))
                     { miningRequired = true; }
                 }
                 if (miningRequired && hideMiningOnlyBlueprints) { continue; }
@@ -188,6 +192,85 @@ namespace Engineers
 
             this.toolStripStatusLabel1.Text = displayedBluePrints.ToString() + " blueprints available.  Select up to 4 blueprints from the menu and right click a blueprint to dismiss it.";
         }
+
+        //public void buildShoppingList()
+        //{
+        //    //flowLayoutPanelShoppingList.Controls.Clear();
+        //    flowLayoutPanelManufactured.Controls.Clear();
+        //    flowLayoutPanelRawMaterials.Controls.Clear();
+        //    flowLayoutPanelData.Controls.Clear();
+        //    flowLayoutPanelCommodity.Controls.Clear();
+
+        //    Label genericHeaderLabel1 = new Label();
+        //    genericHeaderLabel1.Font = new Font(genericHeaderLabel1.Font, FontStyle.Bold);
+        //    genericHeaderLabel1.Text = "Manufactured";
+        //    genericHeaderLabel1.Parent = flowLayoutPanelManufactured;
+        //    Label genericHeaderLabel2 = new Label();
+        //    genericHeaderLabel2.Font = new Font(genericHeaderLabel2.Font, FontStyle.Bold);
+        //    genericHeaderLabel2.Text = "Raw Materials";
+        //    genericHeaderLabel2.Parent = flowLayoutPanelRawMaterials;
+        //    Label genericHeaderLabel3 = new Label();
+        //    genericHeaderLabel3.Font = new Font(genericHeaderLabel3.Font, FontStyle.Bold);
+        //    genericHeaderLabel3.Text = "Data";
+        //    genericHeaderLabel3.Parent = flowLayoutPanelData;
+        //    Label genericHeaderLabel4 = new Label();
+        //    genericHeaderLabel4.Font = new Font(genericHeaderLabel4.Font, FontStyle.Bold);
+        //    genericHeaderLabel4.Text = "Commodities";
+        //    genericHeaderLabel4.Parent = flowLayoutPanelCommodity;
+
+        //    List<Component> components = new List<Component>();
+        //    List<int> componentsCount = new List<int>();
+        //    List<Component> componentsRedux = new List<Component>();
+        //    List<int> componentsCountRedux = new List<int>();
+        //    foreach (Control control in flowLayoutPanelBluePrints.Controls)
+        //    {
+
+        //        if (control.GetType() == typeof(BlueprintDisplayControl))
+        //        {
+        //            BlueprintDisplayControl bpdc = (BlueprintDisplayControl)control;
+        //            for (int i = 0; i < bpdc.associatedBlueprint.RequiredComponents.Count(); i++)
+        //            {
+        //                components.Add(bpdc.associatedBlueprint.RequiredComponents[i]);
+        //                componentsCount.Add(bpdc.associatedBlueprint.RequiredComponentsCount[i]);
+        //            }
+        //        }
+        //    }
+        //    for (int i = 0; i < components.Count; i++) //combine the materials
+        //    {
+        //        if (!componentsRedux.Contains(components[i]))
+        //        {
+        //            componentsRedux.Add(components[i]);
+        //            componentsCountRedux.Add(componentsCount[i]);
+        //        }
+        //        else
+        //        {
+        //            for (int j = 0; j < componentsRedux.Count; j++)
+        //            {
+        //                if (componentsRedux[j].Equals(components[i]))
+        //                {
+        //                    componentsCountRedux[j] += componentsCount[i];
+        //                }
+        //            }
+        //        }
+        //    }
+
+        //    for (int i = 0; i < componentsRedux.Count(); i++)
+        //    {
+        //        string componentType = componentsRedux[i].Type.ToLower();
+        //        if(componentType.Contains("manufactured")) { componentType = "manufactured good"; }
+        //        Label newLabel = new Label();
+        //        newLabel.AutoSize = true;
+        //        newLabel.Text = componentsCountRedux[i].ToString() + "x " + componentsRedux[i].Name;
+        //        ToolTip newToolTip = new ToolTip();
+        //        newToolTip.SetToolTip(newLabel, componentsRedux[i].Occurence + " " + componentType + " acquired from " + componentsRedux[i].MeansOfAcquiring);
+        //        if(componentsRedux[i].Type == "Data") { newLabel.Parent = flowLayoutPanelData; }
+        //        else if (componentsRedux[i].Type == "Manufactured") { newLabel.Parent = flowLayoutPanelManufactured; }
+        //        else if (componentsRedux[i].Type == "Commodity") { newLabel.Parent = flowLayoutPanelCommodity; }
+        //        else if (componentsRedux[i].Type == "Raw material") { newLabel.Parent = flowLayoutPanelRawMaterials; }
+        //        //newLabel.Parent = flowLayoutPanelShoppingList;
+        //    }
+
+        //}
 
         public void buildShoppingList()
         {
@@ -214,58 +297,69 @@ namespace Engineers
             genericHeaderLabel4.Text = "Commodities";
             genericHeaderLabel4.Parent = flowLayoutPanelCommodity;
 
-            List<Component> components = new List<Component>();
-            List<int> componentsCount = new List<int>();
-            List<Component> componentsRedux = new List<Component>();
-            List<int> componentsCountRedux = new List<int>();
+            //List<Component> components = new List<Component>();
+            //List<int> componentsCount = new List<int>();
+            //List<Component> componentsRedux = new List<Component>();
+            //List<int> componentsCountRedux = new List<int>();
+
+            List<Ingredient> componentssss = new List<Ingredient>();
+            List<Ingredient> componentsRedux = new List<Ingredient>();
+
             foreach (Control control in flowLayoutPanelBluePrints.Controls)
             {
 
                 if (control.GetType() == typeof(BlueprintDisplayControl))
                 {
                     BlueprintDisplayControl bpdc = (BlueprintDisplayControl)control;
-                    for (int i = 0; i < bpdc.associatedBlueprint.RequiredComponents.Count(); i++)
-                    {
-                        components.Add(bpdc.associatedBlueprint.RequiredComponents[i]);
-                        componentsCount.Add(bpdc.associatedBlueprint.RequiredComponentsCount[i]);
-                    }
+                    //for (int i = 0; i < bpdc.associatedBlueprint.RequiredComponents.Count(); i++)
+                    //{
+                    //    components.Add(bpdc.associatedBlueprint.RequiredComponents[i]);
+                    //    componentsCount.Add(bpdc.associatedBlueprint.RequiredComponentsCount[i]);
+                    //}
+                    foreach(Ingredient ing in bpdc.associatedBlueprint.RequiredComponents)
+                    { componentssss.Add(new Ingredient(ing.ingredientCount, ing.ingredientComponent)); }
                 }
             }
-            for (int i = 0; i < components.Count; i++) //combine the materials
+            for (int i = 0; i < componentssss.Count; i++) //combine the materials
             {
-                if (!componentsRedux.Contains(components[i]))
+                bool alreadyInList = false;
+
+                for(int a = 0; a < componentsRedux.Count; a++)
                 {
-                    componentsRedux.Add(components[i]);
-                    componentsCountRedux.Add(componentsCount[i]);
+                    if (componentsRedux[a].ingredientComponent.Name == componentssss[i].ingredientComponent.Name)
+                    { alreadyInList = true; }
                 }
+                if(!alreadyInList)
+                { componentsRedux.Add(componentssss[i]); }
                 else
                 {
                     for (int j = 0; j < componentsRedux.Count; j++)
                     {
-                        if (componentsRedux[j].Equals(components[i]))
+                        if (componentsRedux[j].ingredientComponent.Equals(componentssss[i].ingredientComponent))
                         {
-                            componentsCountRedux[j] += componentsCount[i];
+                            componentsRedux[j].ingredientCount += componentssss[i].ingredientCount;
                         }
                     }
                 }
             }
 
-            for (int i = 0; i < componentsRedux.Count(); i++)
+            //for (int i = 0; i < componentsRedux.Count(); i++)
+            foreach(Ingredient ing in componentsRedux)
             {
-                string componentType = componentsRedux[i].Type.ToLower();
-                if(componentType.Contains("manufactured")) { componentType = "manufactured good"; }
+                string componentType = ing.ingredientComponent.Type.ToLower();
+                if (componentType.Contains("manufactured")) { componentType = "manufactured good"; }
                 Label newLabel = new Label();
                 newLabel.AutoSize = true;
-                newLabel.Text = componentsCountRedux[i].ToString() + "x " + componentsRedux[i].Name;
+                newLabel.Text = ing.ingredientCount.ToString() + "x " + ing.ingredientComponent.Name;
                 ToolTip newToolTip = new ToolTip();
-                newToolTip.SetToolTip(newLabel, componentsRedux[i].Occurence + " " + componentType + " acquired from " + componentsRedux[i].MeansOfAcquiring);
-                if(componentsRedux[i].Type == "Data") { newLabel.Parent = flowLayoutPanelData; }
-                else if (componentsRedux[i].Type == "Manufactured") { newLabel.Parent = flowLayoutPanelManufactured; }
-                else if (componentsRedux[i].Type == "Commodity") { newLabel.Parent = flowLayoutPanelCommodity; }
-                else if (componentsRedux[i].Type == "Raw material") { newLabel.Parent = flowLayoutPanelRawMaterials; }
+                newToolTip.SetToolTip(newLabel, ing.ingredientComponent.Occurence + " " + componentType + " acquired from " + ing.ingredientComponent.MeansOfAcquiring);
+                if (ing.ingredientComponent.Type == "Data") { newLabel.Parent = flowLayoutPanelData; }
+                else if (ing.ingredientComponent.Type == "Manufactured") { newLabel.Parent = flowLayoutPanelManufactured; }
+                else if (ing.ingredientComponent.Type == "Commodity") { newLabel.Parent = flowLayoutPanelCommodity; }
+                else if (ing.ingredientComponent.Type == "Raw material") { newLabel.Parent = flowLayoutPanelRawMaterials; }
                 //newLabel.Parent = flowLayoutPanelShoppingList;
             }
-            
+
         }
 
     }

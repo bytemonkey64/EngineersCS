@@ -137,7 +137,8 @@ namespace Engineers
 
             labelModule.Text = blueprint.Module;
             labelName.Text = blueprint.Name + " " + blueprint.Grade.ToString();
-            AddMaterialLabels(blueprint.RequiredComponents, blueprint.RequiredComponentsCount);
+            //AddMaterialLabels(blueprint.RequiredComponents, blueprint.RequiredComponentsCount);
+            AddMaterialLabels(blueprint.RequiredComponents);
             AddEngineerLabels(blueprint.OfferedBy);
 
             int qWidth = parent.Width / 2 - this.Padding.All;
@@ -151,7 +152,8 @@ namespace Engineers
             this.Parent = parent;
         }
 
-        public void AddMaterialLabels(Component[] newComponents, int[] counts)
+        //public void AddMaterialLabels(Component[] newComponents, int[] counts)
+        public void AddMaterialLabels(Ingredient[] newComponents)
         {
             int materialsHeaderLabelIndex = -1; //will hold the index of the label for the materials section of the blueprint so we can insert mats at the correct place
             foreach (Control control in this.Controls)
@@ -164,11 +166,13 @@ namespace Engineers
                 ToolTip newToolTip = new ToolTip();
                 Label newLabel = new Label();
                 newLabel.AutoSize = true;
-                newLabel.Text = counts[i].ToString() + "x " + newComponents[i].Name + " (" + newComponents[i].Occurence + ")";
+                //newLabel.Text = counts[i].ToString() + "x " + newComponents[i].Name + " (" + newComponents[i].Occurence + ")";
+                newLabel.Text = newComponents[i].ingredientCount.ToString() + "x " + newComponents[i].ingredientComponent.Name + " (" + newComponents[i].ingredientComponent.Occurence + ")";
                 newLabel.ForeColor = Color.White;
                 newLabel.Parent = this;
 
-                newToolTip.SetToolTip(newLabel, newComponents[i].Type + " acquired from " + newComponents[i].MeansOfAcquiring);
+                //newToolTip.SetToolTip(newLabel, newComponents[i].Type + " acquired from " + newComponents[i].MeansOfAcquiring);
+                newToolTip.SetToolTip(newLabel, newComponents[i].ingredientComponent.Type + " acquired from " + newComponents[i].ingredientComponent.MeansOfAcquiring);
 
                 this.Controls.SetChildIndex(newLabel, materialsHeaderLabelIndex + 1 + i);
             }
@@ -271,7 +275,6 @@ namespace Engineers
 
         protected override void OnPaint(PaintEventArgs pe)
         {
-            //pe.Graphics.FillRectangle(new SolidBrush(this.BackColor), this.ClientRectangle);
             base.OnPaint(pe);
         }
 

@@ -8,6 +8,8 @@ namespace Engineers
 {
     class Components
     {
+        List<Component> ComponentsList = new List<Component>();
+
         public Component AberrantShieldPatternAnalysis = new Component("Aberrant Shield Pattern Analysis", "Data", "Rare", "Ship Scanning");
         public Component AbnormalCompactEmissionData = new Component("Abnormal Compact Emission Data", "Data", "Very rare", "Ship Scanning, Signal Source");
         public Component AdaptiveEncryptorsCapture = new Component("Adaptive Encryptors Capture", "Data", "Very rare", "Mission Reward");
