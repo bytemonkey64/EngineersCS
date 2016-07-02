@@ -521,15 +521,17 @@ namespace Engineers
             string blueprintLine = "";
             string name, module, engineer, mat;
             int matCount, grade;
-            Component comp;
-            Ingredient[] mats = new Ingredient[] { };
+            Engineers engineers = new Engineers();
+            List<Ingredient> mats = new List<Ingredient>();
+            List<Engineer> engs = new List<Engineer>();
 
             StreamReader inputFile = new StreamReader(input);
             while ((blueprintLine = inputFile.ReadLine()) != null)
             {
+                mats.Clear();
+                engs.Clear();
                 string[] split = blueprintLine.Split(new char[] { ',' });
                 module = split[0];
-                //grade = split[1];
                 Int32.TryParse(split[1], out grade);
                 name = split[2];
                 engineer = split[3];
@@ -538,14 +540,27 @@ namespace Engineers
                     if(split[i] == "") { continue; }
 
                     Int32.TryParse(split[i], out matCount);
-                    //matCount = split[i];
                     mat = split[i + 1];
-                    foreach(Component c in AllComponents)
-                    { }
-                    Console.WriteLine(matCount.ToString() + "x " + mat);
-                    mats.Concat(new Ingredient[] { new Ingredient(2, new Component("", "", "", "")) });
+                    foreach(Component c in AllComponents.ComponentsList)
+                    {
+                        if(c.Name == mat) {
+                            mats.Add(new Ingredient(2, c) ); }
+                    }                    
                 }
-                AllBlueprints.Add(new Blueprint(module, grade, name, mats, new Engineer[] { AllEngineers.getEngineerByName("Selene Jean") }));
+
+                bool found = false;
+                foreach (Blueprint bp in AllBlueprints)
+                {
+                    if (bp.Name == name && bp.Grade == grade)
+                    {
+                        engs = bp.OfferedBy.ToList();
+                        engs.Add(engineers.getEngineerByName(engineer));
+                        bp.OfferedBy = engs.ToArray();
+                        found = true;
+                    }
+                }
+                if(!found)
+                { AllBlueprints.Add(new Blueprint(module, grade, name, mats.ToArray(), new Engineer[] { engineers.getEngineerByName(engineer) })); }
             }
         }
 
