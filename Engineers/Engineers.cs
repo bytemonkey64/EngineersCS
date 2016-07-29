@@ -31,7 +31,7 @@ namespace Engineers
             AllEngineers.Add(new Engineer("Liz Ryder", "http://inara.cz/galaxy-engineer/5"));
             AllEngineers.Add(new Engineer("Broo Tarquin", "http://inara.cz/galaxy-engineer/15"));
             AllEngineers.Add(new Engineer("Colonel Bris Dekker", "http://inara.cz/galaxy-engineer/14"));
-            AllEngineers.Add(new Engineer("Didi Vaterman", "http://inara.cz/galaxy-engineer/11"));
+            AllEngineers.Add(new Engineer("Didi Vatermann", "http://inara.cz/galaxy-engineer/11"));
             AllEngineers.Add(new Engineer("Elvira Martuuk", "http://inara.cz/galaxy-engineer/2"));
             AllEngineers.Add(new Engineer("Felicity Farseer", "http://inara.cz/galaxy-engineer/1"));
             AllEngineers.Add(new Engineer("Hera Tani", "http://inara.cz/galaxy-engineer/12"));

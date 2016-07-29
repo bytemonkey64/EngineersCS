@@ -1,3 +1,15 @@
+Beam Laser,1,Light Weight Mount,The Dweller,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Beam Laser,1,Light Weight Mount,Broo Tarquin,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Beam Laser,2,Light Weight Mount,The Dweller,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Beam Laser,1,Long Range Weapon,The Dweller,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Beam Laser,1,Long Range Weapon,Broo Tarquin,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Beam Laser,2,Long Range Weapon,The Dweller,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
+Beam Laser,1,Short Range Blaster,The Dweller,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Beam Laser,1,Short Range Blaster,Broo Tarquin,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Beam Laser,2,Short Range Blaster,The Dweller,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+Beam Laser,1,Sturdy Mount,The Dweller,2,Nickel,1,Vanadium,,,,,,
+Beam Laser,1,Sturdy Mount,Broo Tarquin,2,Nickel,1,Vanadium,,,,,,
+Beam Laser,2,Sturdy Mount,The Dweller,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
 Armour,1,Blast Resistant Armour,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
 Armour,1,Blast Resistant Armour,Selene Jean,2,Nickel,1,Vanadium,,,,,,
 Armour,2,Blast Resistant Armour,Selene Jean,2,Carbon,2,Zinc,1,High Density Composites,1,CMM Composite,,
@@ -20,18 +32,6 @@ Armour,1,Thermal Resistant Armour,Liz Ryder,2,Heat Conduction Wiring,1,Vanadium,
 Armour,1,Thermal Resistant Armour,Selene Jean,2,Heat Conduction Wiring,1,Vanadium,,,,,,
 Armour,2,Thermal Resistant Armour,Selene Jean,2,Nickel,2,Heat Dispersion Plate,1,Tungsten,1,Neofabric Insulation,,
 Armour,3,Thermal Resistant Armour,Selene Jean,1,Nickel,1,Zinc,2,Heat Exchangers,1,Molybdenum,1,Bromellite
-Beam Laser,1,Light Weight Mount,The Dweller,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Beam Laser,1,Light Weight Mount,Broo Tarquin,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Beam Laser,2,Light Weight Mount,The Dweller,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Beam Laser,1,Long Range Weapon,The Dweller,2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Beam Laser,1,Long Range Weapon,Broo Tarquin,2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Beam Laser,2,Long Range Weapon,The Dweller,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
-Beam Laser,1,Short Range Blaster,The Dweller,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Beam Laser,1,Short Range Blaster,Broo Tarquin,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Beam Laser,2,Short Range Blaster,The Dweller,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-Beam Laser,1,Sturdy Mount,The Dweller,2,Nickel,1,Vanadium,,,,,,
-Beam Laser,1,Sturdy Mount,Broo Tarquin,2,Nickel,1,Vanadium,,,,,,
-Beam Laser,2,Sturdy Mount,The Dweller,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
 Burst Laser,1,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,,,,,,
 Burst Laser,2,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
 Burst Laser,1,Efficient Weapon,Broo Tarquin,1,Sulphur,2,Heat Dispersion Plate,,,,,,
@@ -62,16 +62,16 @@ Burst Laser,1,Sturdy Mount,Broo Tarquin,2,Nickel,1,Vanadium,,,,,,
 Burst Laser,2,Sturdy Mount,The Dweller,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
 Burst Laser,2,Sturdy Mount,Broo Tarquin,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
 Burst Laser,3,Sturdy Mount,Broo Tarquin,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Cannon,1,Efficient Weapon,"Tod ""The Blaster"" McQuinn",1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Cannon,2,Efficient Weapon,"Tod ""The Blaster"" McQuinn",1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Cannon,1,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Cannon,2,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Cannon,1,Long Range Weapon,"Tod ""The Blaster"" McQuinn",2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Cannon,2,Long Range Weapon,"Tod ""The Blaster"" McQuinn",2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
-Cannon,1,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Cannon,2,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Cannon,1,Short Range Blaster,"Tod ""The Blaster"" McQuinn",2,Nickel,1,Modified Consumer Firmware,,,,,,
-Cannon,2,Short Range Blaster,"Tod ""The Blaster"" McQuinn",2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+Cannon,1,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,,,,,,
+Cannon,2,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Cannon,1,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Cannon,2,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Cannon,1,Long Range Weapon,Tod ""The Blaster"" McQuinn,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Cannon,2,Long Range Weapon,Tod ""The Blaster"" McQuinn,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
+Cannon,1,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+Cannon,2,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+Cannon,1,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Cannon,2,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
 Cell Banks,1,Rapid Charge Shield Cell Bank,Elvira Martuuk,2,Sulphur,2,Heat Dispersion Plate,,,,,,
 Cell Banks,1,Specialised Shield Cell Bank,Elvira Martuuk,2,Specialised Legacy Firmware,1,Conductive Components,1,Arsenic,,,,
 Distributor,1,Charge Enhanced Power Distributor,The Dweller,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
@@ -134,46 +134,46 @@ Distributor,2,Weapon Focused Power Distributor,Hera Tani,2,Sulphur,2,Conductive 
 Distributor,3,Weapon Focused Power Distributor,The Dweller,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
 Distributor,3,Weapon Focused Power Distributor,Marco Qwent,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
 Distributor,3,Weapon Focused Power Distributor,Hera Tani,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Frag Cannon,1,Double Shot,"Tod ""The Blaster"" McQuinn",2,Carbon,1,Mechanical Equipment,,,,,,
+Frag Cannon,1,Double Shot,Tod ""The Blaster"" McQuinn,2,Carbon,1,Mechanical Equipment,,,,,,
 Frag Cannon,1,Double Shot,Zacariah Nemo,2,Carbon,1,Mechanical Equipment,,,,,,
-Frag Cannon,2,Double Shot,"Tod ""The Blaster"" McQuinn",2,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Micro Controllers,,
+Frag Cannon,2,Double Shot,Tod ""The Blaster"" McQuinn,2,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Micro Controllers,,
 Frag Cannon,2,Double Shot,Zacariah Nemo,2,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Micro Controllers,,
-Frag Cannon,3,Double Shot,"Tod ""The Blaster"" McQuinn",1,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Mercury,1,Osmium
+Frag Cannon,3,Double Shot,Tod ""The Blaster"" McQuinn,1,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Mercury,1,Osmium
 Frag Cannon,3,Double Shot,Zacariah Nemo,1,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Mercury,1,Osmium
 Frag Cannon,4,Double Shot,Zacariah Nemo,2,Vanadium,2,Mechanical Components,1,Security Firmware Patch,1,Ruthenium,1,Osmium
-Frag Cannon,1,Efficient Weapon,"Tod ""The Blaster"" McQuinn",1,Sulphur,2,Heat Dispersion Plate,,,,,,
+Frag Cannon,1,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,,,,,,
 Frag Cannon,1,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Frag Cannon,2,Efficient Weapon,"Tod ""The Blaster"" McQuinn",1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Frag Cannon,2,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
 Frag Cannon,2,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Frag Cannon,3,Efficient Weapon,"Tod ""The Blaster"" McQuinn",2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
+Frag Cannon,3,Efficient Weapon,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
 Frag Cannon,3,Efficient Weapon,Zacariah Nemo,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
 Frag Cannon,4,Efficient Weapon,Zacariah Nemo,1,Heat Dispersion Plate,2,Selenium,1,Heat Vanes,1,Heatsink Interlink,,
-Frag Cannon,1,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Frag Cannon,1,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
 Frag Cannon,1,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Frag Cannon,2,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Frag Cannon,2,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
 Frag Cannon,2,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Frag Cannon,3,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+Frag Cannon,3,High Capacity Magazine,Tod ""The Blaster"" McQuinn,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
 Frag Cannon,3,High Capacity Magazine,Zacariah Nemo,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
 Frag Cannon,4,High Capacity Magazine,Zacariah Nemo,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
-Frag Cannon,1,Light Weight Mount,"Tod ""The Blaster"" McQuinn",2,Phosphorus,1,Galvanising Alloys,,,,,,
+Frag Cannon,1,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Phosphorus,1,Galvanising Alloys,,,,,,
 Frag Cannon,1,Light Weight Mount,Zacariah Nemo,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Frag Cannon,2,Light Weight Mount,"Tod ""The Blaster"" McQuinn",2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Frag Cannon,2,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
 Frag Cannon,2,Light Weight Mount,Zacariah Nemo,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Frag Cannon,3,Light Weight Mount,"Tod ""The Blaster"" McQuinn",1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Frag Cannon,3,Light Weight Mount,Tod ""The Blaster"" McQuinn,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
 Frag Cannon,3,Light Weight Mount,Zacariah Nemo,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
 Frag Cannon,4,Light Weight Mount,Zacariah Nemo,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
-Frag Cannon,1,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+Frag Cannon,1,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
 Frag Cannon,1,Overcharged Weapon,Zacariah Nemo,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Frag Cannon,2,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+Frag Cannon,2,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
 Frag Cannon,2,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Frag Cannon,3,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
+Frag Cannon,3,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
 Frag Cannon,3,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
 Frag Cannon,4,Overcharged Weapon,Zacariah Nemo,1,Zinc,2,Conductive Ceramics,2,Polymer Capacitors,1,Modified Embedded Firmware,1,Articulation Motors
-Frag Cannon,1,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,Nickel,1,Vanadium,,,,,,
+Frag Cannon,1,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,1,Vanadium,,,,,,
 Frag Cannon,1,Sturdy Mount,Zacariah Nemo,2,Nickel,1,Vanadium,,,,,,
-Frag Cannon,2,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Frag Cannon,2,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
 Frag Cannon,2,Sturdy Mount,Zacariah Nemo,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Frag Cannon,3,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Frag Cannon,3,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
 Frag Cannon,3,Sturdy Mount,Zacariah Nemo,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
 Frag Cannon,4,Sturdy Mount,Zacariah Nemo,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
 Frame Shift Drive,1,Faster Frame Shift Drive Boot Sequence,Felicity Farseer,2,Grid Resistors,2,Heat Dispersion Plate,,,,,,
@@ -285,54 +285,54 @@ Mine Launcher,2,Sturdy Mount,Juri Ishmaak,2,Nickel,2,Shield Emitters,1,Tungsten,
 Mine Launcher,3,Sturdy Mount,Liz Ryder,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
 Mine Launcher,3,Sturdy Mount,Juri Ishmaak,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
 Mine Launcher,4,Sturdy Mount,Juri Ishmaak,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
-MultiCannon,1,Efficient Weapon,"Tod ""The Blaster"" McQuinn",1,Sulphur,2,Heat Dispersion Plate,,,,,,
+MultiCannon,1,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,,,,,,
 MultiCannon,1,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-MultiCannon,2,Efficient Weapon,"Tod ""The Blaster"" McQuinn",1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+MultiCannon,2,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
 MultiCannon,2,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,1,Heat exchangers,1,Micro-Weave Cooling Hoses,,
-MultiCannon,3,Efficient Weapon,"Tod ""The Blaster"" McQuinn",2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
+MultiCannon,3,Efficient Weapon,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
 MultiCannon,3,Efficient Weapon,Zacariah Nemo,2,Heat Conduction Wiring,2,Chromium,2,Heat exchangers,1,Samarium,,
-MultiCannon,4,Efficient Weapon,"Tod ""The Blaster"" McQuinn",1,Heat Dispersion Plate,2,Selenium,1,Heat Vanes,1,Heatsink Interlink,,
-MultiCannon,5,Efficient Weapon,"Tod ""The Blaster"" McQuinn",1,Precipitated Alloys,2,Cadmium,1,Proto Heat Radiators,1,Heatsink Interlink,,
-MultiCannon,1,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+MultiCannon,4,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Heat Dispersion Plate,2,Selenium,1,Heat Vanes,1,Heatsink Interlink,,
+MultiCannon,5,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Precipitated Alloys,2,Cadmium,1,Proto Heat Radiators,1,Heatsink Interlink,,
+MultiCannon,1,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
 MultiCannon,1,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-MultiCannon,2,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+MultiCannon,2,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
 MultiCannon,2,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-MultiCannon,3,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+MultiCannon,3,High Capacity Magazine,Tod ""The Blaster"" McQuinn,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
 MultiCannon,3,High Capacity Magazine,Zacariah Nemo,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
-MultiCannon,4,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
-MultiCannon,5,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",1,Mechanical Components,2,Proprietary Composites,2,Military Supercapacitors,2,Reinforced Mounting Plate,,
-MultiCannon,1,Light Weight Mount,"Tod ""The Blaster"" McQuinn",2,Phosphorus,1,Galvanising Alloys,,,,,,
+MultiCannon,4,High Capacity Magazine,Tod ""The Blaster"" McQuinn,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
+MultiCannon,5,High Capacity Magazine,Tod ""The Blaster"" McQuinn,1,Mechanical Components,2,Proprietary Composites,2,Military Supercapacitors,2,Reinforced Mounting Plate,,
+MultiCannon,1,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Phosphorus,1,Galvanising Alloys,,,,,,
 MultiCannon,1,Light Weight Mount,Zacariah Nemo,2,Phosphorus,1,Galvanising Alloys,,,,,,
-MultiCannon,2,Light Weight Mount,"Tod ""The Blaster"" McQuinn",2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+MultiCannon,2,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
 MultiCannon,2,Light Weight Mount,Zacariah Nemo,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-MultiCannon,3,Light Weight Mount,"Tod ""The Blaster"" McQuinn",1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+MultiCannon,3,Light Weight Mount,Tod ""The Blaster"" McQuinn,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
 MultiCannon,3,Light Weight Mount,Zacariah Nemo,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-MultiCannon,4,Light Weight Mount,"Tod ""The Blaster"" McQuinn",2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
-MultiCannon,5,Light Weight Mount,"Tod ""The Blaster"" McQuinn",2,Conductive Polymers,1,Proto Radiolic Alloys,1,Magnetic Emitter Coil,,,,
-MultiCannon,1,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+MultiCannon,4,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
+MultiCannon,5,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Conductive Polymers,1,Proto Radiolic Alloys,1,Magnetic Emitter Coil,,,,
+MultiCannon,1,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
 MultiCannon,1,Overcharged Weapon,Zacariah Nemo,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-MultiCannon,2,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+MultiCannon,2,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
 MultiCannon,2,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-MultiCannon,3,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
+MultiCannon,3,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
 MultiCannon,3,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
-MultiCannon,4,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",1,Zinc,2,Conductive Ceramics,2,Polymer Capacitors,1,Modified Embedded Firmware,1,Articulation Motors
-MultiCannon,5,Overcharged Weapon,"Tod ""The Blaster"" McQuinn",2,Zirconium,2,Conductive Polymers,2,Modified Embedded Firmware,1,Reinforced Mounting Plate,,
-MultiCannon,1,Short Range Blaster,"Tod ""The Blaster"" McQuinn",2,Nickel,1,Modified Consumer Firmware,,,,,,
+MultiCannon,4,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Zinc,2,Conductive Ceramics,2,Polymer Capacitors,1,Modified Embedded Firmware,1,Articulation Motors
+MultiCannon,5,Overcharged Weapon,Tod ""The Blaster"" McQuinn,2,Zirconium,2,Conductive Polymers,2,Modified Embedded Firmware,1,Reinforced Mounting Plate,,
+MultiCannon,1,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,1,Modified Consumer Firmware,,,,,,
 MultiCannon,1,Short Range Blaster,Zacariah Nemo,2,Nickel,1,Modified Consumer Firmware,,,,,,
-MultiCannon,2,Short Range Blaster,"Tod ""The Blaster"" McQuinn",2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+MultiCannon,2,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
 MultiCannon,2,Short Range Blaster,Zacariah Nemo,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-MultiCannon,3,Short Range Blaster,"Tod ""The Blaster"" McQuinn",1,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Conductive Polymers,1,Neofabric Insulation
+MultiCannon,3,Short Range Blaster,Tod ""The Blaster"" McQuinn,1,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Conductive Polymers,1,Neofabric Insulation
 MultiCannon,3,Short Range Blaster,Zacariah Nemo,1,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Conductive Polymers,1,Neofabric Insulation
-MultiCannon,4,Short Range Blaster,"Tod ""The Blaster"" McQuinn",1,Modified Consumer Firmware,2,Electrochemical Arrays,2,Conductive Polymers,1,Platinum,,
-MultiCannon,5,Short Range Blaster,"Tod ""The Blaster"" McQuinn",2,Security Firmware Patch,1,Improvised Components,1,Magnetic Emitter Coil,,,,
-MultiCannon,1,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,Nickel,1,Vanadium,,,,,,
+MultiCannon,4,Short Range Blaster,Tod ""The Blaster"" McQuinn,1,Modified Consumer Firmware,2,Electrochemical Arrays,2,Conductive Polymers,1,Platinum,,
+MultiCannon,5,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Security Firmware Patch,1,Improvised Components,1,Magnetic Emitter Coil,,,,
+MultiCannon,1,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,1,Vanadium,,,,,,
 MultiCannon,1,Sturdy Mount,Zacariah Nemo,2,Nickel,1,Vanadium,,,,,,
-MultiCannon,2,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+MultiCannon,2,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
 MultiCannon,2,Sturdy Mount,Zacariah Nemo,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-MultiCannon,3,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+MultiCannon,3,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
 MultiCannon,3,Sturdy Mount,Zacariah Nemo,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-MultiCannon,4,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,High Density Composites,2,Molybdenum,1,Osmium,,,,
-MultiCannon,5,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,Proprietary Composites,1,Technetium,1,Radiation Baffle,,,,
+MultiCannon,4,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
+MultiCannon,5,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Proprietary Composites,1,Technetium,1,Radiation Baffle,,,,
 Plasma Accelerators,1,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,,,,,,
 Plasma Accelerators,2,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
 Plasma Accelerators,1,Focused Weapon,Zacariah Nemo,1,Iron,1,Conductive Components,1,Electrochemical Arrays,,,,
@@ -407,16 +407,16 @@ Pulse Laser,2,Sturdy Mount,Broo Tarquin,2,Nickel,2,Shield Emitters,1,Tungsten,1,
 Pulse Laser,3,Sturdy Mount,The Dweller,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
 Pulse Laser,3,Sturdy Mount,Broo Tarquin,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
 Pulse Laser,4,Sturdy Mount,Broo Tarquin,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
-Rail Gun,1,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Rail Gun,2,High Capacity Magazine,"Tod ""The Blaster"" McQuinn",2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Rail Gun,1,Light Weight Mount,"Tod ""The Blaster"" McQuinn",2,Phosphorus,1,Galvanising Alloys,,,,,,
-Rail Gun,2,Light Weight Mount,"Tod ""The Blaster"" McQuinn",2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Rail Gun,1,Long Range Weapon,"Tod ""The Blaster"" McQuinn",2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Rail Gun,2,Long Range Weapon,"Tod ""The Blaster"" McQuinn",2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
-Rail Gun,1,Short Range Blaster,"Tod ""The Blaster"" McQuinn",2,Nickel,1,Modified Consumer Firmware,,,,,,
-Rail Gun,2,Short Range Blaster,"Tod ""The Blaster"" McQuinn",2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-Rail Gun,1,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,Nickel,1,Vanadium,,,,,,
-Rail Gun,2,Sturdy Mount,"Tod ""The Blaster"" McQuinn",2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Rail Gun,1,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Rail Gun,2,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Rail Gun,1,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Rail Gun,2,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Rail Gun,1,Long Range Weapon,Tod ""The Blaster"" McQuinn,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Rail Gun,2,Long Range Weapon,Tod ""The Blaster"" McQuinn,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
+Rail Gun,1,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Rail Gun,2,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+Rail Gun,1,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,1,Vanadium,,,,,,
+Rail Gun,2,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
 Seeker Missile Rack,1,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
 Seeker Missile Rack,1,High Capacity Magazine,Juri Ishmaak,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
 Seeker Missile Rack,2,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite

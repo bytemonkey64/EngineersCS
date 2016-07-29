@@ -20,7 +20,7 @@ namespace Engineers
             //AllBlueprints.Add(new Blueprint("Armour", 1, "BLAST RESISTANT ARMOUR", new int[]{2,1} , new Component[] {AllComponents.Nickel, AllComponents.Vanadium }, new Engineer[] { AllEngineers.getEngineerByName("Liz Ryder"), AllEngineers.getEngineerByName("Selene Jean") }));
             //AllBlueprints.Add(new Blueprint("Armour", 2, "BLAST RESISTANT ARMOUR", new int[]{2,1,2,1}, new Component[] {AllComponents.Carbon, AllComponents.HighDensityComposites, AllComponents.Zinc, AllComponents.CMMComposite }, new Engineer[] { AllEngineers.getEngineerByName("Selene Jean") }));
             //AllBlueprints.Add(new Blueprint("Armour", 3, "BLAST RESISTANT ARMOUR", new int[]{1,1,1,2,1}, new Component[] {AllComponents.Carbon, AllComponents.ProprietaryComposites, AllComponents.Zinc, AllComponents.Zirconium, AllComponents.Osmium }, new Engineer[] { AllEngineers.getEngineerByName("Selene Jean") }));
-            AllBlueprints.Add(new Blueprint("Armour", 1, "BLAST RESISTANT ARMOUR", new Ingredient[] { new Ingredient(2, AllComponents.Nickel), new Ingredient(1, AllComponents.Vanadium) } , new Engineer[] { AllEngineers.getEngineerByName("Liz Ryder"), AllEngineers.getEngineerByName("Selene Jean") }));
+          ////AllBlueprints.Add(new Blueprint("Armour", 1, "BLAST RESISTANT ARMOUR", new Ingredient[] { new Ingredient(2, AllComponents.Nickel), new Ingredient(1, AllComponents.Vanadium) } , new Engineer[] { AllEngineers.getEngineerByName("Liz Ryder"), AllEngineers.getEngineerByName("Selene Jean") }));
             //AllBlueprints.Add(new Blueprint("Armour", 2, "BLAST RESISTANT ARMOUR", new int[] { 2, 1, 2, 1 }, new Component[] { AllComponents.Carbon, AllComponents.HighDensityComposites, AllComponents.Zinc, AllComponents.CMMComposite }, new Engineer[] { AllEngineers.getEngineerByName("Selene Jean") }));
             //AllBlueprints.Add(new Blueprint("Armour", 3, "BLAST RESISTANT ARMOUR", new int[] { 1, 1, 1, 2, 1 }, new Component[] { AllComponents.Carbon, AllComponents.ProprietaryComposites, AllComponents.Zinc, AllComponents.Zirconium, AllComponents.Osmium }, new Engineer[] { AllEngineers.getEngineerByName("Selene Jean") }));
 
@@ -535,6 +535,13 @@ namespace Engineers
                 Int32.TryParse(split[1], out grade);
                 name = split[2];
                 engineer = split[3];
+                engineer = engineer.Replace("\"\"", "\"");
+
+                if(module.ToLower().Contains("rail"))
+                {
+                    Console.WriteLine("breakpoint");
+                }
+
                 for(int i = 4; i<split.Count();i=i+2)
                 {
                     if(split[i] == "") { continue; }
@@ -551,7 +558,7 @@ namespace Engineers
                 bool found = false;
                 foreach (Blueprint bp in AllBlueprints)
                 {
-                    if (bp.Name == name && bp.Grade == grade)
+                    if (bp.Name == name && bp.Grade == grade && bp.Module == module)
                     {
                         engs = bp.OfferedBy.ToList();
                         engs.Add(engineers.getEngineerByName(engineer));
