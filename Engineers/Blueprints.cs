@@ -537,11 +537,6 @@ namespace Engineers
                 engineer = split[3];
                 engineer = engineer.Replace("\"\"", "\"");
 
-                if(module.ToLower().Contains("rail"))
-                {
-                    Console.WriteLine("breakpoint");
-                }
-
                 for(int i = 4; i<split.Count();i=i+2)
                 {
                     if(split[i] == "") { continue; }

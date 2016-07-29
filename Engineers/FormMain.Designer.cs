@@ -72,7 +72,8 @@
             this.blueprintsToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(875, 28);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(9, 3, 0, 3);
+            this.menuStrip1.Size = new System.Drawing.Size(1312, 42);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -82,20 +83,20 @@
             this.aboutToolStripMenuItem,
             this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(44, 24);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(64, 36);
             this.fileToolStripMenuItem.Text = "&File";
             // 
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(125, 26);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(180, 38);
             this.aboutToolStripMenuItem.Text = "&About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(125, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 38);
             this.exitToolStripMenuItem.Text = "E&xit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -109,7 +110,7 @@
             this.alwaysOnTopToolStripMenuItem,
             this.transparencyToolStripMenuItem});
             this.optionsToolStripMenuItem.Name = "optionsToolStripMenuItem";
-            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(73, 24);
+            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(111, 36);
             this.optionsToolStripMenuItem.Text = "&Options";
             // 
             // ignoreBlueprintsWithoutEngineersToolStripMenuItem
@@ -118,7 +119,7 @@
             this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.CheckOnClick = true;
             this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.Name = "ignoreBlueprintsWithoutEngineersToolStripMenuItem";
-            this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.Size = new System.Drawing.Size(376, 26);
+            this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.Size = new System.Drawing.Size(588, 38);
             this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.Text = "Ignore Blueprints without &engineers";
             this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.CheckedChanged += new System.EventHandler(this.ignoreBlueprintsWithoutEngineersToolStripMenuItem_CheckedChanged);
             // 
@@ -126,14 +127,14 @@
             // 
             this.ignoreBlueprintsWithminingOnlyMaterialsToolStripMenuItem.CheckOnClick = true;
             this.ignoreBlueprintsWithminingOnlyMaterialsToolStripMenuItem.Name = "ignoreBlueprintsWithminingOnlyMaterialsToolStripMenuItem";
-            this.ignoreBlueprintsWithminingOnlyMaterialsToolStripMenuItem.Size = new System.Drawing.Size(376, 26);
+            this.ignoreBlueprintsWithminingOnlyMaterialsToolStripMenuItem.Size = new System.Drawing.Size(588, 38);
             this.ignoreBlueprintsWithminingOnlyMaterialsToolStripMenuItem.Text = "Ignore Blueprints with &mining only materials";
             this.ignoreBlueprintsWithminingOnlyMaterialsToolStripMenuItem.CheckedChanged += new System.EventHandler(this.igoreBlueprintsWithminingOnlyMaterialsToolStripMenuItem_CheckedChanged);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(373, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(585, 6);
             // 
             // alwaysOnTopToolStripMenuItem
             // 
@@ -141,7 +142,7 @@
             this.alwaysOnTopToolStripMenuItem.CheckOnClick = true;
             this.alwaysOnTopToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.alwaysOnTopToolStripMenuItem.Name = "alwaysOnTopToolStripMenuItem";
-            this.alwaysOnTopToolStripMenuItem.Size = new System.Drawing.Size(376, 26);
+            this.alwaysOnTopToolStripMenuItem.Size = new System.Drawing.Size(588, 38);
             this.alwaysOnTopToolStripMenuItem.Text = "&Always on top";
             this.alwaysOnTopToolStripMenuItem.CheckedChanged += new System.EventHandler(this.alwaysOnTopToolStripMenuItem_CheckedChanged);
             // 
@@ -149,14 +150,14 @@
             // 
             this.transparencyToolStripMenuItem.CheckOnClick = true;
             this.transparencyToolStripMenuItem.Name = "transparencyToolStripMenuItem";
-            this.transparencyToolStripMenuItem.Size = new System.Drawing.Size(376, 26);
+            this.transparencyToolStripMenuItem.Size = new System.Drawing.Size(588, 38);
             this.transparencyToolStripMenuItem.Text = "&50% transparency";
             this.transparencyToolStripMenuItem.CheckedChanged += new System.EventHandler(this.transparencyToolStripMenuItem_CheckedChanged);
             // 
             // blueprintsToolStripMenuItem
             // 
             this.blueprintsToolStripMenuItem.Name = "blueprintsToolStripMenuItem";
-            this.blueprintsToolStripMenuItem.Size = new System.Drawing.Size(87, 24);
+            this.blueprintsToolStripMenuItem.Size = new System.Drawing.Size(134, 36);
             this.blueprintsToolStripMenuItem.Text = "&Blueprints";
             // 
             // flowLayoutPanelBluePrints
@@ -165,9 +166,10 @@
             this.flowLayoutPanelBluePrints.BackColor = System.Drawing.Color.Transparent;
             this.flowLayoutPanelBluePrints.Dock = System.Windows.Forms.DockStyle.Top;
             this.flowLayoutPanelBluePrints.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.flowLayoutPanelBluePrints.Location = new System.Drawing.Point(0, 28);
+            this.flowLayoutPanelBluePrints.Location = new System.Drawing.Point(0, 42);
+            this.flowLayoutPanelBluePrints.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelBluePrints.Name = "flowLayoutPanelBluePrints";
-            this.flowLayoutPanelBluePrints.Size = new System.Drawing.Size(875, 567);
+            this.flowLayoutPanelBluePrints.Size = new System.Drawing.Size(1312, 886);
             this.flowLayoutPanelBluePrints.TabIndex = 5;
             this.flowLayoutPanelBluePrints.ControlAdded += new System.Windows.Forms.ControlEventHandler(this.flowLayoutPanelBluePrints_ControlAdded);
             this.flowLayoutPanelBluePrints.ControlRemoved += new System.Windows.Forms.ControlEventHandler(this.flowLayoutPanelBluePrints_ControlRemoved);
@@ -177,9 +179,10 @@
             this.statusStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel1});
-            this.statusStrip.Location = new System.Drawing.Point(0, 796);
+            this.statusStrip.Location = new System.Drawing.Point(0, 1246);
             this.statusStrip.Name = "statusStrip";
-            this.statusStrip.Size = new System.Drawing.Size(875, 25);
+            this.statusStrip.Padding = new System.Windows.Forms.Padding(2, 0, 21, 0);
+            this.statusStrip.Size = new System.Drawing.Size(1312, 37);
             this.statusStrip.SizingGrip = false;
             this.statusStrip.TabIndex = 6;
             this.statusStrip.Text = "statusStrip1";
@@ -187,7 +190,7 @@
             // toolStripStatusLabel1
             // 
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(568, 20);
+            this.toolStripStatusLabel1.Size = new System.Drawing.Size(923, 32);
             this.toolStripStatusLabel1.Text = "Select up to 4 blueprints from the menu.  Right click to dismiss a displayed blue" +
     "print.";
             // 
@@ -195,9 +198,11 @@
             // 
             this.groupBoxShoppingList.Controls.Add(this.flowLayoutPanelShoppingList);
             this.groupBoxShoppingList.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupBoxShoppingList.Location = new System.Drawing.Point(0, 595);
+            this.groupBoxShoppingList.Location = new System.Drawing.Point(0, 928);
+            this.groupBoxShoppingList.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.groupBoxShoppingList.Name = "groupBoxShoppingList";
-            this.groupBoxShoppingList.Size = new System.Drawing.Size(875, 201);
+            this.groupBoxShoppingList.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.groupBoxShoppingList.Size = new System.Drawing.Size(1312, 318);
             this.groupBoxShoppingList.TabIndex = 7;
             this.groupBoxShoppingList.TabStop = false;
             this.groupBoxShoppingList.Text = "Shopping List";
@@ -210,9 +215,10 @@
             this.flowLayoutPanelShoppingList.Controls.Add(this.flowLayoutPanelCommodity);
             this.flowLayoutPanelShoppingList.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanelShoppingList.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
-            this.flowLayoutPanelShoppingList.Location = new System.Drawing.Point(3, 18);
+            this.flowLayoutPanelShoppingList.Location = new System.Drawing.Point(4, 29);
+            this.flowLayoutPanelShoppingList.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelShoppingList.Name = "flowLayoutPanelShoppingList";
-            this.flowLayoutPanelShoppingList.Size = new System.Drawing.Size(869, 180);
+            this.flowLayoutPanelShoppingList.Size = new System.Drawing.Size(1304, 284);
             this.flowLayoutPanelShoppingList.TabIndex = 0;
             // 
             // flowLayoutPanelRawMaterials
@@ -221,17 +227,19 @@
             this.flowLayoutPanelRawMaterials.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.flowLayoutPanelRawMaterials.Controls.Add(this.labelRawMaterialsHeader);
             this.flowLayoutPanelRawMaterials.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
-            this.flowLayoutPanelRawMaterials.Location = new System.Drawing.Point(3, 3);
+            this.flowLayoutPanelRawMaterials.Location = new System.Drawing.Point(4, 5);
+            this.flowLayoutPanelRawMaterials.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelRawMaterials.Name = "flowLayoutPanelRawMaterials";
-            this.flowLayoutPanelRawMaterials.Size = new System.Drawing.Size(279, 174);
+            this.flowLayoutPanelRawMaterials.Size = new System.Drawing.Size(418, 271);
             this.flowLayoutPanelRawMaterials.TabIndex = 2;
             // 
             // labelRawMaterialsHeader
             // 
             this.labelRawMaterialsHeader.AutoSize = true;
-            this.labelRawMaterialsHeader.Location = new System.Drawing.Point(3, 0);
+            this.labelRawMaterialsHeader.Location = new System.Drawing.Point(4, 0);
+            this.labelRawMaterialsHeader.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelRawMaterialsHeader.Name = "labelRawMaterialsHeader";
-            this.labelRawMaterialsHeader.Size = new System.Drawing.Size(96, 17);
+            this.labelRawMaterialsHeader.Size = new System.Drawing.Size(148, 25);
             this.labelRawMaterialsHeader.TabIndex = 0;
             this.labelRawMaterialsHeader.Text = "Raw Materials";
             // 
@@ -242,17 +250,19 @@
             this.flowLayoutPanelData.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.flowLayoutPanelData.Controls.Add(this.labelDataHeader);
             this.flowLayoutPanelData.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
-            this.flowLayoutPanelData.Location = new System.Drawing.Point(288, 3);
+            this.flowLayoutPanelData.Location = new System.Drawing.Point(430, 5);
+            this.flowLayoutPanelData.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelData.Name = "flowLayoutPanelData";
-            this.flowLayoutPanelData.Size = new System.Drawing.Size(200, 174);
+            this.flowLayoutPanelData.Size = new System.Drawing.Size(299, 271);
             this.flowLayoutPanelData.TabIndex = 0;
             // 
             // labelDataHeader
             // 
             this.labelDataHeader.AutoSize = true;
-            this.labelDataHeader.Location = new System.Drawing.Point(3, 0);
+            this.labelDataHeader.Location = new System.Drawing.Point(4, 0);
+            this.labelDataHeader.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelDataHeader.Name = "labelDataHeader";
-            this.labelDataHeader.Size = new System.Drawing.Size(38, 17);
+            this.labelDataHeader.Size = new System.Drawing.Size(57, 25);
             this.labelDataHeader.TabIndex = 0;
             this.labelDataHeader.Text = "Data";
             // 
@@ -262,18 +272,20 @@
             this.flowLayoutPanelManufactured.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.flowLayoutPanelManufactured.Controls.Add(this.labelManufacturedHeader);
             this.flowLayoutPanelManufactured.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
-            this.flowLayoutPanelManufactured.Location = new System.Drawing.Point(494, 3);
+            this.flowLayoutPanelManufactured.Location = new System.Drawing.Point(737, 5);
+            this.flowLayoutPanelManufactured.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelManufactured.Name = "flowLayoutPanelManufactured";
-            this.flowLayoutPanelManufactured.Size = new System.Drawing.Size(200, 174);
+            this.flowLayoutPanelManufactured.Size = new System.Drawing.Size(299, 271);
             this.flowLayoutPanelManufactured.TabIndex = 1;
             this.flowLayoutPanelManufactured.WrapContents = false;
             // 
             // labelManufacturedHeader
             // 
             this.labelManufacturedHeader.AutoSize = true;
-            this.labelManufacturedHeader.Location = new System.Drawing.Point(3, 0);
+            this.labelManufacturedHeader.Location = new System.Drawing.Point(4, 0);
+            this.labelManufacturedHeader.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelManufacturedHeader.Name = "labelManufacturedHeader";
-            this.labelManufacturedHeader.Size = new System.Drawing.Size(95, 17);
+            this.labelManufacturedHeader.Size = new System.Drawing.Size(144, 25);
             this.labelManufacturedHeader.TabIndex = 0;
             this.labelManufacturedHeader.Text = "Manufactured";
             // 
@@ -283,25 +295,27 @@
             this.flowLayoutPanelCommodity.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.flowLayoutPanelCommodity.Controls.Add(this.labelCommodityHeader);
             this.flowLayoutPanelCommodity.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
-            this.flowLayoutPanelCommodity.Location = new System.Drawing.Point(700, 3);
+            this.flowLayoutPanelCommodity.Location = new System.Drawing.Point(1044, 5);
+            this.flowLayoutPanelCommodity.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelCommodity.Name = "flowLayoutPanelCommodity";
-            this.flowLayoutPanelCommodity.Size = new System.Drawing.Size(103, 174);
+            this.flowLayoutPanelCommodity.Size = new System.Drawing.Size(154, 271);
             this.flowLayoutPanelCommodity.TabIndex = 3;
             // 
             // labelCommodityHeader
             // 
             this.labelCommodityHeader.AutoSize = true;
-            this.labelCommodityHeader.Location = new System.Drawing.Point(3, 0);
+            this.labelCommodityHeader.Location = new System.Drawing.Point(4, 0);
+            this.labelCommodityHeader.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelCommodityHeader.Name = "labelCommodityHeader";
-            this.labelCommodityHeader.Size = new System.Drawing.Size(77, 17);
+            this.labelCommodityHeader.Size = new System.Drawing.Size(119, 25);
             this.labelCommodityHeader.TabIndex = 0;
             this.labelCommodityHeader.Text = "Commodity";
             // 
             // FormMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(875, 821);
+            this.ClientSize = new System.Drawing.Size(1312, 1283);
             this.Controls.Add(this.groupBoxShoppingList);
             this.Controls.Add(this.statusStrip);
             this.Controls.Add(this.flowLayoutPanelBluePrints);
@@ -310,8 +324,8 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
-            this.MinimizeBox = false;
             this.Name = "FormMain";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Text = "Elite: Dangerous Engineers Cheat Sheet";
