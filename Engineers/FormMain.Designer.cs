@@ -53,6 +53,9 @@
             this.labelManufacturedHeader = new System.Windows.Forms.Label();
             this.flowLayoutPanelCommodity = new System.Windows.Forms.FlowLayoutPanel();
             this.labelCommodityHeader = new System.Windows.Forms.Label();
+            this.myMaterialsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.engineersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripComboBox1 = new System.Windows.Forms.ToolStripComboBox();
             this.menuStrip1.SuspendLayout();
             this.statusStrip.SuspendLayout();
             this.groupBoxShoppingList.SuspendLayout();
@@ -69,11 +72,13 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
             this.optionsToolStripMenuItem,
-            this.blueprintsToolStripMenuItem});
+            this.blueprintsToolStripMenuItem,
+            this.myMaterialsToolStripMenuItem,
+            this.engineersToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(9, 3, 0, 3);
-            this.menuStrip1.Size = new System.Drawing.Size(1312, 42);
+            this.menuStrip1.Size = new System.Drawing.Size(1312, 44);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -83,7 +88,7 @@
             this.aboutToolStripMenuItem,
             this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(64, 36);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(64, 38);
             this.fileToolStripMenuItem.Text = "&File";
             // 
             // aboutToolStripMenuItem
@@ -110,7 +115,7 @@
             this.alwaysOnTopToolStripMenuItem,
             this.transparencyToolStripMenuItem});
             this.optionsToolStripMenuItem.Name = "optionsToolStripMenuItem";
-            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(111, 36);
+            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(111, 38);
             this.optionsToolStripMenuItem.Text = "&Options";
             // 
             // ignoreBlueprintsWithoutEngineersToolStripMenuItem
@@ -121,6 +126,7 @@
             this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.Name = "ignoreBlueprintsWithoutEngineersToolStripMenuItem";
             this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.Size = new System.Drawing.Size(588, 38);
             this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.Text = "Ignore Blueprints without &engineers";
+            this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.Visible = false;
             this.ignoreBlueprintsWithoutEngineersToolStripMenuItem.CheckedChanged += new System.EventHandler(this.ignoreBlueprintsWithoutEngineersToolStripMenuItem_CheckedChanged);
             // 
             // ignoreBlueprintsWithminingOnlyMaterialsToolStripMenuItem
@@ -157,7 +163,7 @@
             // blueprintsToolStripMenuItem
             // 
             this.blueprintsToolStripMenuItem.Name = "blueprintsToolStripMenuItem";
-            this.blueprintsToolStripMenuItem.Size = new System.Drawing.Size(134, 36);
+            this.blueprintsToolStripMenuItem.Size = new System.Drawing.Size(134, 38);
             this.blueprintsToolStripMenuItem.Text = "&Blueprints";
             // 
             // flowLayoutPanelBluePrints
@@ -166,7 +172,7 @@
             this.flowLayoutPanelBluePrints.BackColor = System.Drawing.Color.Transparent;
             this.flowLayoutPanelBluePrints.Dock = System.Windows.Forms.DockStyle.Top;
             this.flowLayoutPanelBluePrints.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.flowLayoutPanelBluePrints.Location = new System.Drawing.Point(0, 42);
+            this.flowLayoutPanelBluePrints.Location = new System.Drawing.Point(0, 44);
             this.flowLayoutPanelBluePrints.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelBluePrints.Name = "flowLayoutPanelBluePrints";
             this.flowLayoutPanelBluePrints.Size = new System.Drawing.Size(1312, 886);
@@ -198,11 +204,11 @@
             // 
             this.groupBoxShoppingList.Controls.Add(this.flowLayoutPanelShoppingList);
             this.groupBoxShoppingList.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupBoxShoppingList.Location = new System.Drawing.Point(0, 928);
+            this.groupBoxShoppingList.Location = new System.Drawing.Point(0, 930);
             this.groupBoxShoppingList.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.groupBoxShoppingList.Name = "groupBoxShoppingList";
             this.groupBoxShoppingList.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.groupBoxShoppingList.Size = new System.Drawing.Size(1312, 318);
+            this.groupBoxShoppingList.Size = new System.Drawing.Size(1312, 316);
             this.groupBoxShoppingList.TabIndex = 7;
             this.groupBoxShoppingList.TabStop = false;
             this.groupBoxShoppingList.Text = "Shopping List";
@@ -218,7 +224,7 @@
             this.flowLayoutPanelShoppingList.Location = new System.Drawing.Point(4, 29);
             this.flowLayoutPanelShoppingList.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelShoppingList.Name = "flowLayoutPanelShoppingList";
-            this.flowLayoutPanelShoppingList.Size = new System.Drawing.Size(1304, 284);
+            this.flowLayoutPanelShoppingList.Size = new System.Drawing.Size(1304, 282);
             this.flowLayoutPanelShoppingList.TabIndex = 0;
             // 
             // flowLayoutPanelRawMaterials
@@ -311,6 +317,33 @@
             this.labelCommodityHeader.TabIndex = 0;
             this.labelCommodityHeader.Text = "Commodity";
             // 
+            // myMaterialsToolStripMenuItem
+            // 
+            this.myMaterialsToolStripMenuItem.Name = "myMaterialsToolStripMenuItem";
+            this.myMaterialsToolStripMenuItem.Size = new System.Drawing.Size(124, 38);
+            this.myMaterialsToolStripMenuItem.Text = "&Materials";
+            // 
+            // engineersToolStripMenuItem
+            // 
+            this.engineersToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripComboBox1});
+            this.engineersToolStripMenuItem.Name = "engineersToolStripMenuItem";
+            this.engineersToolStripMenuItem.Size = new System.Drawing.Size(131, 38);
+            this.engineersToolStripMenuItem.Text = "&Engineers";
+            // 
+            // toolStripComboBox1
+            // 
+            this.toolStripComboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.toolStripComboBox1.Items.AddRange(new object[] {
+            "Hera Tani -",
+            "Hera Tani 1",
+            "Hera Tani 2",
+            "Hera Tani 3",
+            "Hera Tani 4",
+            "Hera Tani 5"});
+            this.toolStripComboBox1.Name = "toolStripComboBox1";
+            this.toolStripComboBox1.Size = new System.Drawing.Size(121, 40);
+            // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -374,6 +407,9 @@
         private System.Windows.Forms.Label labelManufacturedHeader;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanelCommodity;
         private System.Windows.Forms.Label labelCommodityHeader;
+        private System.Windows.Forms.ToolStripMenuItem myMaterialsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem engineersToolStripMenuItem;
+        private System.Windows.Forms.ToolStripComboBox toolStripComboBox1;
     }
 }
 
