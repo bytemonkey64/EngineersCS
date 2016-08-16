@@ -362,5 +362,9 @@ namespace Engineers
 
         }
 
+        private void flowLayoutPanelBluePrints_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
