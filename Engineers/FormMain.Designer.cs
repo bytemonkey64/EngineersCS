@@ -171,6 +171,7 @@
             this.myMaterialsToolStripMenuItem.Name = "myMaterialsToolStripMenuItem";
             this.myMaterialsToolStripMenuItem.Size = new System.Drawing.Size(124, 36);
             this.myMaterialsToolStripMenuItem.Text = "&Materials";
+            this.myMaterialsToolStripMenuItem.Visible = false;
             // 
             // engineersToolStripMenuItem
             // 
@@ -179,6 +180,7 @@
             this.engineersToolStripMenuItem.Name = "engineersToolStripMenuItem";
             this.engineersToolStripMenuItem.Size = new System.Drawing.Size(131, 36);
             this.engineersToolStripMenuItem.Text = "&Engineers";
+            this.engineersToolStripMenuItem.Visible = false;
             // 
             // toolStripComboBox1
             // 
@@ -195,14 +197,13 @@
             // 
             // flowLayoutPanelBluePrints
             // 
-            this.flowLayoutPanelBluePrints.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.flowLayoutPanelBluePrints.BackColor = System.Drawing.Color.Transparent;
             this.flowLayoutPanelBluePrints.Dock = System.Windows.Forms.DockStyle.Top;
             this.flowLayoutPanelBluePrints.ForeColor = System.Drawing.SystemColors.WindowText;
             this.flowLayoutPanelBluePrints.Location = new System.Drawing.Point(0, 42);
             this.flowLayoutPanelBluePrints.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelBluePrints.Name = "flowLayoutPanelBluePrints";
-            this.flowLayoutPanelBluePrints.Size = new System.Drawing.Size(1312, 886);
+            this.flowLayoutPanelBluePrints.Size = new System.Drawing.Size(1312, 878);
             this.flowLayoutPanelBluePrints.TabIndex = 5;
             this.flowLayoutPanelBluePrints.ControlAdded += new System.Windows.Forms.ControlEventHandler(this.flowLayoutPanelBluePrints_ControlAdded);
             this.flowLayoutPanelBluePrints.ControlRemoved += new System.Windows.Forms.ControlEventHandler(this.flowLayoutPanelBluePrints_ControlRemoved);
@@ -231,18 +232,20 @@
             // groupBoxShoppingList
             // 
             this.groupBoxShoppingList.Controls.Add(this.flowLayoutPanelShoppingList);
-            this.groupBoxShoppingList.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupBoxShoppingList.Location = new System.Drawing.Point(0, 928);
+            this.groupBoxShoppingList.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.groupBoxShoppingList.Location = new System.Drawing.Point(0, 930);
             this.groupBoxShoppingList.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.groupBoxShoppingList.Name = "groupBoxShoppingList";
             this.groupBoxShoppingList.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.groupBoxShoppingList.Size = new System.Drawing.Size(1312, 318);
+            this.groupBoxShoppingList.Size = new System.Drawing.Size(1312, 316);
             this.groupBoxShoppingList.TabIndex = 7;
             this.groupBoxShoppingList.TabStop = false;
             this.groupBoxShoppingList.Text = "Shopping List";
             // 
             // flowLayoutPanelShoppingList
             // 
+            this.flowLayoutPanelShoppingList.AutoSize = true;
+            this.flowLayoutPanelShoppingList.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.flowLayoutPanelShoppingList.Controls.Add(this.flowLayoutPanelRawMaterials);
             this.flowLayoutPanelShoppingList.Controls.Add(this.flowLayoutPanelData);
             this.flowLayoutPanelShoppingList.Controls.Add(this.flowLayoutPanelManufactured);
@@ -252,7 +255,7 @@
             this.flowLayoutPanelShoppingList.Location = new System.Drawing.Point(4, 29);
             this.flowLayoutPanelShoppingList.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanelShoppingList.Name = "flowLayoutPanelShoppingList";
-            this.flowLayoutPanelShoppingList.Size = new System.Drawing.Size(1304, 284);
+            this.flowLayoutPanelShoppingList.Size = new System.Drawing.Size(1304, 282);
             this.flowLayoutPanelShoppingList.TabIndex = 0;
             // 
             // flowLayoutPanelRawMaterials
@@ -347,21 +350,21 @@
             // 
             // FormMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleDimensions = new System.Drawing.SizeF(192F, 192F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1312, 1283);
             this.Controls.Add(this.groupBoxShoppingList);
             this.Controls.Add(this.statusStrip);
             this.Controls.Add(this.flowLayoutPanelBluePrints);
             this.Controls.Add(this.menuStrip1);
             this.DoubleBuffered = true;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
             this.Name = "FormMain";
-            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Text = "Elite: Dangerous Engineers Cheat Sheet";
             this.TopMost = true;
             this.menuStrip1.ResumeLayout(false);
@@ -369,6 +372,7 @@
             this.statusStrip.ResumeLayout(false);
             this.statusStrip.PerformLayout();
             this.groupBoxShoppingList.ResumeLayout(false);
+            this.groupBoxShoppingList.PerformLayout();
             this.flowLayoutPanelShoppingList.ResumeLayout(false);
             this.flowLayoutPanelRawMaterials.ResumeLayout(false);
             this.flowLayoutPanelRawMaterials.PerformLayout();

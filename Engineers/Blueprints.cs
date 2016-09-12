@@ -545,8 +545,11 @@ namespace Engineers
                     mat = split[i + 1];
                     foreach(Component c in AllComponents.ComponentsList)
                     {
-                        if(c.Name == mat) {
-                            mats.Add(new Ingredient(2, c) ); }
+                        if (c.Name == mat)
+                        {
+                            //mats.Add(new Ingredient(2, c) ); }
+                            mats.Add(new Ingredient(matCount, c));
+                        }
                     }                    
                 }
 

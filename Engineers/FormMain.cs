@@ -28,6 +28,7 @@ namespace Engineers
 
             Application.AddMessageFilter(new Filter());
 
+            groupBoxShoppingList.Height = this.Height / 3;
             flowLayoutPanelCommodity.Width = flowLayoutPanelShoppingList.Width / flowLayoutPanelShoppingList.Controls.Count - 5;
             flowLayoutPanelManufactured.Width = flowLayoutPanelShoppingList.Width / flowLayoutPanelShoppingList.Controls.Count - 5;
             flowLayoutPanelData.Width = flowLayoutPanelShoppingList.Width / flowLayoutPanelShoppingList.Controls.Count - 5;
