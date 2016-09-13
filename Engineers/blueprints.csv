@@ -1,320 +1,273 @@
-FSD,1,Faster FSD Boot Sequence,Felicity Farseer,2,Grid Resistors,2,Heat Dispersion Plate,,,,,,
-FSD,2,Faster FSD Boot Sequence,Felicity Farseer,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Micro Controllers,,
-FSD,3,Faster FSD Boot Sequence,Felicity Farseer,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Security Firmware Patch,1,Hardware Diagnostic Sensor
-FSD,4,Faster FSD Boot Sequence,Felicity Farseer,1,Chromium,2,Electrochemical Arrays,2,Heat Vanes,1,Modified Embedded Firmware,1,Hardware Diagnostic Sensor
-FSD,5,Faster FSD Boot Sequence,Felicity Farseer,1,Selenium,2,Polymer Capacitors,2,Proto Heat Radiators,1,Radiation Baffle,,
-FSD,1,Increased FSD Range,Felicity Farseer,2,Atypical Disrupted Wake Echoes,2,Chemical Processors,1,Arsenic,,,,
-FSD,2,Increased FSD Range,Felicity Farseer,3,Atypical Disrupted Wake Echoes,2,Chemical Processors,2,Arsenic,1,Praseodymium,,
-FSD,3,Increased FSD Range,Felicity Farseer,2,Atypical Disrupted Wake Echoes,3,Chemical Processors,2,Selenium,1,Yttrium,1,Modular Terminals
-FSD,4,Increased FSD Range,Felicity Farseer,2,Anomalous FSD Telemetry,3,Chemical Distillery,2,Yttrium,1,Energy Grid Assembly,,
-FSD,5,Increased FSD Range,Felicity Farseer,2,Strange Wake Solutions,2,Chemical Manipulators,2,Polonium,1,Magnetic Emitter Coil,,
-FSD,1,Shielded FSD,Felicity Farseer,1,Nickel,2,Shield Emitters,,,,,,
-FSD,2,Shielded FSD,Felicity Farseer,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Insulating Membrane,,
-FSD,3,Shielded FSD,Felicity Farseer,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Micro-Weave Cooling Hoses,,
-FSD,4,Shielded FSD,Felicity Farseer,1,Vanadium,2,High Density Composites,2,Compound Shielding,1,Bromellite,,
-FSD,5,Shielded FSD,Felicity Farseer,1,Tungsten,2,Proprietary Composites,1,Imperial Shielding,1,Radiation Baffle,,
-Thrusters,1,Dirty Drive Tuning,Felicity Farseer,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
-Thrusters,2,Dirty Drive Tuning,Felicity Farseer,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Chemical Distillery,1,Modular Terminals,,
-Thrusters,3,Dirty Drive Tuning,Felicity Farseer,1,Specialised Legacy Firmware,2,Chromium,2,Mechanical Components,1,Chemical Manipulators,1,Micro-Weave Cooling Hoses
-Thrusters,1,Drive Strengthening,Felicity Farseer,1,Carbon,2,Shield Emitters,,,,,,
-Thrusters,2,Drive Strengthening,Felicity Farseer,2,Heat Conduction Wiring,2,Vanadium,1,Shielding Sensors,1,Osmium,,
-Thrusters,3,Drive Strengthening,Felicity Farseer,1,Heat Conduction Wiring,3,Vanadium,2,Shielding Sensors,1,CMM Composite,,
-Thrusters,1,Clean Drive Tuning,Felicity Farseer,2,Sulphur,1,Irregular Emission Data,1,Niobium,,,,
-Thrusters,2,Clean Drive Tuning,Felicity Farseer,1,Specialised Legacy Firmware,2,Conductive Components,2,Unexpected Emission Data,1,Tin,1,Samarium
-Thrusters,3,Clean Drive Tuning,Felicity Farseer,1,Specialised Legacy Firmware,3,Conductive Components,2,Unexpected Emission Data,2,Tin,1,Power Converter
-Booster (Shield),1,Blast Resistant Shield Booster,Felicity Farseer,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
-Booster (Shield),1,Heavy Duty Shield Booster,Felicity Farseer,1,Grid Resistors,2,Germanium,,,,,,
-Booster (Shield),1,Kinetic Resistant Shield Booster,Felicity Farseer,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
-Booster (Shield),1,Resistance Augmented Shield Booster,Felicity Farseer,2,Phosphorus,1,Germanium,1,Shielding Sensors,,,,
-Booster (Shield),1,Thermal Resistant Shield Booster,Felicity Farseer,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
-Power Plant,1,Armoured Power Plant,Felicity Farseer,1,Worn Shield Emitters,2,Vanadium,,,,,,
-Power Plant,1,Overcharged Power Plant,Felicity Farseer,2,Sulphur,1,Conductive Components,1,Chemical Distillery,,,,
-Power Plant,1,Low Emissions Power Plant,Felicity Farseer,1,Iron,2,Heat Dispersion Plate,,,,,,
-Interdictor,1,Expanded FSD Interdictor Capture Arc,Felicity Farseer,2,Mechanical Scrap,1,Anomalous FSD Telemetry,,,,,,
-Interdictor,1,Longer Range FSD Interdictor,Felicity Farseer,2,Iron,1,Tagged Encryption Codes,,,,,,
-FSD,1,Faster FSD Boot Sequence,Elvira Martuuk,2,Grid Resistors,2,Heat Dispersion Plate,,,,,,
-FSD,2,Faster FSD Boot Sequence,Elvira Martuuk,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Micro Controllers,,
-FSD,3,Faster FSD Boot Sequence,Elvira Martuuk,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Security Firmware Patch,1,Hardware Diagnostic Sensor
-FSD,4,Faster FSD Boot Sequence,Elvira Martuuk,1,Chromium,2,Electrochemical Arrays,2,Heat Vanes,1,Modified Embedded Firmware,1,Hardware Diagnostic Sensor
-FSD,5,Faster FSD Boot Sequence,Elvira Martuuk,1,Selenium,2,Polymer Capacitors,2,Proto Heat Radiators,1,Radiation Baffle,,
-FSD,1,Increased FSD Range,Elvira Martuuk,2,Atypical Disrupted Wake Echoes,2,Chemical Processors,1,Arsenic,,,,
-FSD,2,Increased FSD Range,Elvira Martuuk,3,Atypical Disrupted Wake Echoes,2,Chemical Processors,2,Arsenic,1,Praseodymium,,
-FSD,3,Increased FSD Range,Elvira Martuuk,2,Atypical Disrupted Wake Echoes,3,Chemical Processors,2,Selenium,1,Yttrium,1,Modular Terminals
-FSD,4,Increased FSD Range,Elvira Martuuk,2,Anomalous FSD Telemetry,3,Chemical Distillery,2,Yttrium,1,Energy Grid Assembly,,
-FSD,5,Increased FSD Range,Elvira Martuuk,2,Strange Wake Solutions,2,Chemical Manipulators,2,Polonium,1,Magnetic Emitter Coil,,
-FSD,1,Shielded FSD,Elvira Martuuk,1,Nickel,2,Shield Emitters,,,,,,
-FSD,2,Shielded FSD,Elvira Martuuk,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Insulating Membrane,,
-FSD,3,Shielded FSD,Elvira Martuuk,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Micro-Weave Cooling Hoses,,
-FSD,4,Shielded FSD,Elvira Martuuk,1,Vanadium,2,High Density Composites,2,Compound Shielding,1,Bromellite,,
-FSD,5,Shielded FSD,Elvira Martuuk,1,Tungsten,2,Proprietary Composites,1,Imperial Shielding,1,Radiation Baffle,,
-Cell Banks,1,Rapid Charge Shield Cell Bank,Elvira Martuuk,2,Sulphur,2,Heat Dispersion Plate,,,,,,
-Cell Banks,1,Specialised Shield Cell Bank,Elvira Martuuk,2,Specialised Legacy Firmware,1,Conductive Components,1,Arsenic,,,,
-Shield Generator,1,Kinetic Resistant Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,,,,,,
-Shield Generator,2,Kinetic Resistant Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,2,Modified Consumer Firmware,1,Zirconium,1,Micro-Weave Cooling Hoses,,
-Shield Generator,3,Kinetic Resistant Shields,Elvira Martuuk,1,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
-Shield Generator,1,Enhanced Low Power Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,1,Germanium,1,Focus Crystals,,,,
-Shield Generator,2,Enhanced Low Power Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,2,Germanium,2,Focus Crystals,1,Micro Controllers,,
-Shield Generator,3,Enhanced Low Power Shields,Elvira Martuuk,1,Distorted Shield Cycle Recordings,2,Germanium,2,Precipitated Alloys,1,Refined Focus Crystals,1,Power Transfer Bus
-Shield Generator,1,Reinforced Shields,Elvira Martuuk,1,Phosphorus,2,Conductive Components,,,,,,
-Shield Generator,2,Reinforced Shields,Elvira Martuuk,2,Phosphorus,2,Conductive Components,1,Mechanical Components,1,Modular Terminals,,
-Shield Generator,3,Reinforced Shields,Elvira Martuuk,1,Phosphorus,2,Conductive Components,2,Mechanical Components,1,Magnetic Emitter Coil,,
-Shield Generator,1,Thermal Resistant Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,1,Germanium,,,,,,
-Shield Generator,2,Thermal Resistant Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,2,Germanium,1,Zirconium,1,Micro-Weave Cooling Hoses,,
-Shield Generator,3,Thermal Resistant Shields,Elvira Martuuk,1,Distorted Shield Cycle Recordings,1,Germanium,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
-Thrusters,1,Dirty Drive Tuning,Elvira Martuuk,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
-Thrusters,2,Dirty Drive Tuning,Elvira Martuuk,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Chemical Distillery,1,Modular Terminals,,
-Thrusters,1,Drive Strengthening,Elvira Martuuk,1,Carbon,2,Shield Emitters,,,,,,
-Thrusters,2,Drive Strengthening,Elvira Martuuk,2,Heat Conduction Wiring,2,Vanadium,1,Shielding Sensors,1,Osmium,,
-Thrusters,1,Clean Drive Tuning,Elvira Martuuk,2,Sulphur,1,Irregular Emission Data,1,Niobium,,,,
-Thrusters,2,Clean Drive Tuning,Elvira Martuuk,1,Specialised Legacy Firmware,2,Conductive Components,2,Unexpected Emission Data,1,Tin,1,Samarium
-Hull Reinforcement,1,Lightweight Hull Reinforcement,Liz Ryder,2,Iron,1,Conductive Components,1,High Density Composites,,,,
-Hull Reinforcement,1,Blast Resistant Hull Reinforcement,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
-Hull Reinforcement,1,Heavy Duty Hull Reinforcement,Liz Ryder,1,Carbon,2,Shield Emitters,,,,,,
-Hull Reinforcement,1,Kinetic Resistant Hull Reinforcement,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
-Hull Reinforcement,1,Thermal Resistant Hull Reinforcement,Liz Ryder,2,Heat Conduction Wiring,1,Vanadium,,,,,,
-Mine Launcher,1,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Mine Launcher,2,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Mine Launcher,3,High Capacity Magazine,Liz Ryder,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
-Mine Launcher,1,Rapid Fire Modification,Liz Ryder,2,Mechanical Scrap,2,Heat Dispersion Plate,,,,,,
-Mine Launcher,2,Rapid Fire Modification,Liz Ryder,3,Mechanical Scrap,2,Heat Dispersion Plate,1,Tungsten,1,HN Shock Mount,,
-Mine Launcher,3,Rapid Fire Modification,Liz Ryder,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Precipitated Alloys,1,Molybdenum,1,Osmium
-Mine Launcher,1,Light Weight Mount,Liz Ryder,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Mine Launcher,2,Light Weight Mount,Liz Ryder,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Mine Launcher,3,Light Weight Mount,Liz Ryder,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Mine Launcher,1,Sturdy Mount,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
-Mine Launcher,2,Sturdy Mount,Liz Ryder,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Mine Launcher,3,Sturdy Mount,Liz Ryder,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Seeker Missile Rack,1,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Seeker Missile Rack,2,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Seeker Missile Rack,3,High Capacity Magazine,Liz Ryder,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
-Seeker Missile Rack,4,High Capacity Magazine,Liz Ryder,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
-Seeker Missile Rack,1,Rapid Fire Modification,Liz Ryder,2,Mechanical Scrap,2,Heat Dispersion Plate,,,,,,
-Seeker Missile Rack,2,Rapid Fire Modification,Liz Ryder,3,Mechanical Scrap,2,Heat Dispersion Plate,1,Tungsten,1,HN Shock Mount,,
-Seeker Missile Rack,3,Rapid Fire Modification,Liz Ryder,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Precipitated Alloys,1,Molybdenum,1,Osmium
-Seeker Missile Rack,4,Rapid Fire Modification,Liz Ryder,1,Modified Consumer Firmware,1,Mechanical Components,2,Thermic Alloys,1,Technetium,1,Telemetry Suite
-Seeker Missile Rack,1,Light Weight Mount,Liz Ryder,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Seeker Missile Rack,2,Light Weight Mount,Liz Ryder,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Seeker Missile Rack,3,Light Weight Mount,Liz Ryder,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Seeker Missile Rack,4,Light Weight Mount,Liz Ryder,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
-Seeker Missile Rack,1,Sturdy Mount,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
-Seeker Missile Rack,2,Sturdy Mount,Liz Ryder,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Seeker Missile Rack,3,Sturdy Mount,Liz Ryder,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Seeker Missile Rack,4,Sturdy Mount,Liz Ryder,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
-Armour,1,Lightweight Armour,Liz Ryder,2,Iron,1,Conductive Components,1,High Density Composites,,,,
 Armour,1,Blast Resistant Armour,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
-Armour,1,Heavy Duty Armour,Liz Ryder,1,Carbon,2,Shield Emitters,,,,,,
-Armour,1,Kinetic Resistant Armour,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
-Armour,1,Thermal Resistant Armour,Liz Ryder,2,Heat Conduction Wiring,1,Vanadium,,,,,,
-Torpedo Pylon,1,Light Weight Mount,Liz Ryder,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Torpedo Pylon,2,Light Weight Mount,Liz Ryder,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Torpedo Pylon,3,Light Weight Mount,Liz Ryder,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Torpedo Pylon,4,Light Weight Mount,Liz Ryder,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
-Torpedo Pylon,1,Sturdy Mount,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
-Torpedo Pylon,2,Sturdy Mount,Liz Ryder,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Torpedo Pylon,3,Sturdy Mount,Liz Ryder,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Torpedo Pylon,4,Sturdy Mount,Liz Ryder,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
-Cannon,1,Efficient Weapon,Tod Quinn,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Cannon,2,Efficient Weapon,Tod Quinn,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Cannon,1,High Capacity Magazine,Tod Quinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Cannon,2,High Capacity Magazine,Tod Quinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Cannon,1,Long Range Weapon,Tod Quinn,2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Cannon,2,Long Range Weapon,Tod Quinn,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
-Cannon,1,Short Range Blaster,Tod Quinn,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Cannon,2,Short Range Blaster,Tod Quinn,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-Cannon,1,Overcharged Weapon,Tod Quinn,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Cannon,2,Overcharged Weapon,Tod Quinn,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Frag Cannon,1,Double Shot,Tod Quinn,2,Carbon,1,Mechanical Equipment,,,,,,
-Frag Cannon,2,Double Shot,Tod Quinn,2,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Micro Controllers,,
-Frag Cannon,3,Double Shot,Tod Quinn,1,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Mercury,1,Osmium
-Frag Cannon,1,Efficient Weapon,Tod Quinn,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Frag Cannon,2,Efficient Weapon,Tod Quinn,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Frag Cannon,3,Efficient Weapon,Tod Quinn,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
-Frag Cannon,1,High Capacity Magazine,Tod Quinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Frag Cannon,2,High Capacity Magazine,Tod Quinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Frag Cannon,3,High Capacity Magazine,Tod Quinn,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
-Frag Cannon,1,Light Weight Mount,Tod Quinn,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Frag Cannon,2,Light Weight Mount,Tod Quinn,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Frag Cannon,3,Light Weight Mount,Tod Quinn,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Frag Cannon,1,Overcharged Weapon,Tod Quinn,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Frag Cannon,2,Overcharged Weapon,Tod Quinn,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Frag Cannon,3,Overcharged Weapon,Tod Quinn,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
-Frag Cannon,1,Sturdy Mount,Tod Quinn,2,Nickel,1,Vanadium,,,,,,
-Frag Cannon,2,Sturdy Mount,Tod Quinn,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Frag Cannon,3,Sturdy Mount,Tod Quinn,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Multi-Cannon,1,Efficient Weapon,Tod Quinn,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Multi-Cannon,2,Efficient Weapon,Tod Quinn,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Multi-Cannon,3,Efficient Weapon,Tod Quinn,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
-Multi-Cannon,4,Efficient Weapon,Tod Quinn,1,Heat Dispersion Plate,2,Selenium,1,Heat Vanes,1,Heatsink Interlink,,
-Multi-Cannon,5,Efficient Weapon,Tod Quinn,1,Precipitated Alloys,2,Cadmium,1,Proto Heat Radiators,1,Heatsink Interlink,,
-Multi-Cannon,1,High Capacity Magazine,Tod Quinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Multi-Cannon,2,High Capacity Magazine,Tod Quinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Multi-Cannon,3,High Capacity Magazine,Tod Quinn,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
-Multi-Cannon,4,High Capacity Magazine,Tod Quinn,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
-Multi-Cannon,5,High Capacity Magazine,Tod Quinn,1,Mechanical Components,2,Proprietary Composites,2,Military Supercapacitors,2,Reinforced Mounting Plate,,
-Multi-Cannon,1,Light Weight Mount,Tod Quinn,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Multi-Cannon,2,Light Weight Mount,Tod Quinn,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Multi-Cannon,3,Light Weight Mount,Tod Quinn,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Multi-Cannon,4,Light Weight Mount,Tod Quinn,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
-Multi-Cannon,5,Light Weight Mount,Tod Quinn,2,Conductive Polymers,1,Proto Radiolic Alloys,1,Magnetic Emitter Coil,,,,
-Multi-Cannon,1,Overcharged Weapon,Tod Quinn,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Multi-Cannon,2,Overcharged Weapon,Tod Quinn,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Multi-Cannon,3,Overcharged Weapon,Tod Quinn,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
-Multi-Cannon,4,Overcharged Weapon,Tod Quinn,1,Zinc,2,Conductive Ceramics,2,Polymer Capacitors,1,Modified Embedded Firmware,1,Articulation Motors
-Multi-Cannon,5,Overcharged Weapon,Tod Quinn,2,Zirconium,2,Conductive Polymers,2,Modified Embedded Firmware,1,Reinforced Mounting Plate,,
-Multi-Cannon,1,Short Range Blaster,Tod Quinn,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Multi-Cannon,2,Short Range Blaster,Tod Quinn,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-Multi-Cannon,3,Short Range Blaster,Tod Quinn,1,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Conductive Polymers,1,Neofabric Insulation
-Multi-Cannon,4,Short Range Blaster,Tod Quinn,1,Modified Consumer Firmware,2,Electrochemical Arrays,2,Conductive Polymers,1,Platinum,,
-Multi-Cannon,5,Short Range Blaster,Tod Quinn,2,Security Firmware Patch,1,Improvised Components,1,Magnetic Emitter Coil,,,,
-Multi-Cannon,1,Sturdy Mount,Tod Quinn,2,Nickel,1,Vanadium,,,,,,
-Multi-Cannon,2,Sturdy Mount,Tod Quinn,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Multi-Cannon,3,Sturdy Mount,Tod Quinn,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Multi-Cannon,4,Sturdy Mount,Tod Quinn,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
-Multi-Cannon,5,Sturdy Mount,Tod Quinn,2,Proprietary Composites,1,Technetium,1,Radiation Baffle,,,,
-Rail Gun,1,High Capacity Magazine,Tod Quinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Rail Gun,2,High Capacity Magazine,Tod Quinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Rail Gun,1,Light Weight Mount,Tod Quinn,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Rail Gun,2,Light Weight Mount,Tod Quinn,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Rail Gun,1,Long Range Weapon,Tod Quinn,2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Rail Gun,2,Long Range Weapon,Tod Quinn,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
-Rail Gun,1,Short Range Blaster,Tod Quinn,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Rail Gun,2,Short Range Blaster,Tod Quinn,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-Rail Gun,1,Sturdy Mount,Tod Quinn,2,Nickel,1,Vanadium,,,,,,
-Rail Gun,2,Sturdy Mount,Tod Quinn,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-FSD,1,Faster FSD Boot Sequence,Professor Palin,2,Grid Resistors,2,Heat Dispersion Plate,,,,,,
-FSD,2,Faster FSD Boot Sequence,Professor Palin,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Micro Controllers,,
-FSD,3,Faster FSD Boot Sequence,Professor Palin,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Security Firmware Patch,1,Hardware Diagnostic Sensor
-FSD,1,Increased FSD Range,Professor Palin,2,Atypical Disrupted Wake Echoes,2,Chemical Processors,1,Arsenic,,,,
-FSD,2,Increased FSD Range,Professor Palin,3,Atypical Disrupted Wake Echoes,2,Chemical Processors,2,Arsenic,1,Praseodymium,,
-FSD,3,Increased FSD Range,Professor Palin,2,Atypical Disrupted Wake Echoes,3,Chemical Processors,2,Selenium,1,Yttrium,1,Modular Terminals
-FSD,1,Shielded FSD,Professor Palin,1,Nickel,2,Shield Emitters,,,,,,
-FSD,2,Shielded FSD,Professor Palin,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Insulating Membrane,,
-FSD,3,Shielded FSD,Professor Palin,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Micro-Weave Cooling Hoses,,
-Thrusters,1,Dirty Drive Tuning,Professor Palin,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
-Thrusters,2,Dirty Drive Tuning,Professor Palin,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Chemical Distillery,1,Modular Terminals,,
-Thrusters,3,Dirty Drive Tuning,Professor Palin,1,Specialised Legacy Firmware,2,Chromium,2,Mechanical Components,1,Chemical Manipulators,1,Micro-Weave Cooling Hoses
-Thrusters,4,Dirty Drive Tuning,Professor Palin,2,Modified Consumer Firmware,3,Selenium,2,Configurable Components,1,Pharmaceutical Isolators,1,Heatsink Interlink
-Thrusters,5,Dirty Drive Tuning,Professor Palin,2,Cracked Industrial Firmware,2,Cadmium,2,Pharmaceutical Isolators,1,Exhaust Manifold,,
-Thrusters,1,Drive Strengthening,Professor Palin,1,Carbon,2,Shield Emitters,,,,,,
-Thrusters,2,Drive Strengthening,Professor Palin,2,Heat Conduction Wiring,2,Vanadium,1,Shielding Sensors,1,Osmium,,
-Thrusters,3,Drive Strengthening,Professor Palin,1,Heat Conduction Wiring,3,Vanadium,2,Shielding Sensors,1,CMM Composite,,
-Thrusters,4,Drive Strengthening,Professor Palin,1,Heat Dispersion Plate,3,High Density Composites,1,Compound Shielding,1,CMM Composite,,
-Thrusters,5,Drive Strengthening,Professor Palin,1,Heat Exchangers,2,Proprietary Composites,1,Imperial Shielding,1,Articulation Motors,,
-Thrusters,1,Clean Drive Tuning,Professor Palin,2,Sulphur,1,Irregular Emission Data,1,Niobium,,,,
-Thrusters,2,Clean Drive Tuning,Professor Palin,1,Specialised Legacy Firmware,2,Conductive Components,2,Unexpected Emission Data,1,Tin,1,Samarium
-Thrusters,3,Clean Drive Tuning,Professor Palin,1,Specialised Legacy Firmware,3,Conductive Components,2,Unexpected Emission Data,2,Tin,1,Power Converter
-Thrusters,4,Clean Drive Tuning,Professor Palin,2,Modified Consumer Firmware,3,Conductive Ceramics,2,Decoded Emission Data,1,Antimony,1,Power Converter
-Thrusters,5,Clean Drive Tuning,Professor Palin,2,Conductive Ceramics,3,Decoded Emission Data,2,Antimony,1,Magnetic Emitter Coil,,
-Distributor,1,High Charge Capacity Power Distributor,The Dweller,2,Sulphur,1,Zinc,1,Electrochemical Arrays,,,,
-Distributor,2,High Charge Capacity Power Distributor,The Dweller,2,Specialised Legacy Firmware,2,Chromium,1,High Density Composites,1,Polymer Capacitors,1,Platinum
-Distributor,3,High Charge Capacity Power Distributor,The Dweller,1,Specialised Legacy Firmware,3,Chromium,2,High Density Composites,2,Polymer Capacitors,1,Modular Terminals
-Distributor,4,High Charge Capacity Power Distributor,The Dweller,2,Modified Consumer Firmware,2,Selenium,2,Proprietary Composites,1,Military Supercapacitors,1,Modular Terminals
-Distributor,5,High Charge Capacity Power Distributor,The Dweller,2,Cracked Industrial Firmware,2,Proprietary Composites,2,Military Supercapacitors,1,Emergency Power Cells,,
-Distributor,1,Charge Enhanced Power Distributor,The Dweller,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
-Distributor,2,Charge Enhanced Power Distributor,The Dweller,2,Specialised Legacy Firmware,2,Chemical Processors,1,Focus Crystals,1,Nanobreakers,,
-Distributor,3,Charge Enhanced Power Distributor,The Dweller,1,Grid Resistors,2,Modified Consumer Firmware,2,Chemical Distillery,1,Refined Focus Crystals,1,Praseodymium
-Distributor,4,Charge Enhanced Power Distributor,The Dweller,1,Hybrid Capacitors,2,Cracked Industrial Firmware,2,Chemical Manipulators,1,Exquisite Focus Crystals,1,Ion Distributor
-Distributor,5,Charge Enhanced Power Distributor,The Dweller,3,Cracked Industrial Firmware,2,Chemical Manipulators,2,Exquisite Focus Crystals,1,Ion Distributor,,
-Distributor,1,Engine Focused Power Distributor,The Dweller,2,Sulphur,1,Conductive Components,,,,,,
-Distributor,2,Engine Focused Power Distributor,The Dweller,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
-Distributor,3,Engine Focused Power Distributor,The Dweller,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Distributor,1,System Focused Power Distributor,The Dweller,2,Sulphur,1,Conductive Components,,,,,,
-Distributor,2,System Focused Power Distributor,The Dweller,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
-Distributor,3,System Focused Power Distributor,The Dweller,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Distributor,1,Weapon Focused Power Distributor,The Dweller,2,Sulphur,1,Conductive Components,,,,,,
-Distributor,2,Weapon Focused Power Distributor,The Dweller,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
-Distributor,3,Weapon Focused Power Distributor,The Dweller,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Distributor,1,Shielded Power Distributor,The Dweller,1,Worn Shield Emitters,2,Vanadium,,,,,,
-Distributor,2,Shielded Power Distributor,The Dweller,2,Carbon,2,Shield Emitters,1,High Density Composites,1,CMM Composite,,
-Distributor,3,Shielded Power Distributor,The Dweller,1,Carbon,3,Shield Emitters,2,High Density Composites,1,Osmium,,
-Distributor,4,Shielded Power Distributor,The Dweller,1,Vanadium,3,Shielding Sensors,2,Proprietary Composites,1,Reinforced Mounting Plate,,
-Distributor,5,Shielded Power Distributor,The Dweller,1,Tungsten,3,Compound Shielding,1,Core Dynamics Composites,1,Reinforced Mounting Plate,,
-Pulse Laser,1,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Pulse Laser,2,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Pulse Laser,3,Efficient Weapon,The Dweller,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
-Pulse Laser,1,Focused Weapon,The Dweller,1,Iron,1,Conductive Components,1,Electrochemical Arrays,,,,
-Pulse Laser,2,Focused Weapon,The Dweller,2,Iron,2,Conductive Components,2,Electrochemical Arrays,1,Micro Controllers,,
-Pulse Laser,3,Focused Weapon,The Dweller,1,Iron,3,Chromium,2,Conductive Ceramics,1,Polymer Capacitors,1,Platinum
-Pulse Laser,1,Light Weight Mount,The Dweller,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Pulse Laser,2,Light Weight Mount,The Dweller,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Pulse Laser,3,Light Weight Mount,The Dweller,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Pulse Laser,1,Sturdy Mount,The Dweller,2,Nickel,1,Vanadium,,,,,,
-Pulse Laser,2,Sturdy Mount,The Dweller,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Pulse Laser,3,Sturdy Mount,The Dweller,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Pulse Laser,1,Overcharged Weapon,The Dweller,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Pulse Laser,2,Overcharged Weapon,The Dweller,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Pulse Laser,3,Overcharged Weapon,The Dweller,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
-Burst Laser,1,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Burst Laser,2,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Burst Laser,1,Light Weight Mount,The Dweller,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Burst Laser,2,Light Weight Mount,The Dweller,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Burst Laser,1,Sturdy Mount,The Dweller,2,Nickel,1,Vanadium,,,,,,
-Burst Laser,2,Sturdy Mount,The Dweller,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Burst Laser,1,Short Range Blaster,The Dweller,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Burst Laser,2,Short Range Blaster,The Dweller,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-Burst Laser,1,Long Range Weapon,The Dweller,2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Burst Laser,2,Long Range Weapon,The Dweller,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
-Burst Laser,1,Overcharged Weapon,The Dweller,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Burst Laser,2,Overcharged Weapon,The Dweller,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Beam Laser,1,Light Weight Mount,The Dweller,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Beam Laser,2,Light Weight Mount,The Dweller,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Beam Laser,1,Long Range Weapon,The Dweller,2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Beam Laser,2,Long Range Weapon,The Dweller,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
-Beam Laser,1,Short Range Blaster,The Dweller,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Beam Laser,2,Short Range Blaster,The Dweller,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-Beam Laser,1,Sturdy Mount,The Dweller,2,Nickel,1,Vanadium,,,,,,
-Beam Laser,2,Sturdy Mount,The Dweller,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Power Plant,1,Armoured Power Plant,Marco Qwent,1,Worn Shield Emitters,2,Vanadium,,,,,,
-Power Plant,2,Armoured Power Plant,Marco Qwent,2,Carbon,2,Shield Emitters,1,High Density Composites,1,Osmium,,
-Power Plant,3,Armoured Power Plant,Marco Qwent,1,Carbon,2,Shield Emitters,2,High Density Composites,1,CMM Composite,,
-Power Plant,4,Armoured Power Plant,Marco Qwent,1,Vanadium,2,Shielding Sensors,1,Proprietary Composites,1,CMM Composite,,
-Power Plant,1,Overcharged Power Plant,Marco Qwent,2,Sulphur,1,Conductive Components,1,Chemical Distillery,,,,
-Power Plant,2,Overcharged Power Plant,Marco Qwent,2,Heat Conduction Wiring,2,Conductive Components,1,Selenium,1,Chemical Manipulators,1,Platinum
-Power Plant,3,Overcharged Power Plant,Marco Qwent,1,Heat Conduction Wiring,2,Conductive Components,2,Selenium,2,Chemical Manipulators,1,Emergency Power Cells
-Power Plant,4,Overcharged Power Plant,Marco Qwent,1,Heat Dispersion Plate,2,Conductive Ceramics,2,Cadmium,1,Pharmaceutical Isolators,1,Energy Grid Assembly
-Power Plant,1,Low Emissions Power Plant,Marco Qwent,1,Iron,2,Heat Dispersion Plate,,,,,,
-Power Plant,2,Low Emissions Power Plant,Marco Qwent,2,Iron,2,Irregular Emission Data,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Power Plant,3,Low Emissions Power Plant,Marco Qwent,1,Iron,2,Irregular Emission Data,2,Heat Exchangers,1,Samarium,,
-Distributor,1,High Charge Capacity Power Distributor,Marco Qwent,2,Sulphur,1,Zinc,1,Electrochemical Arrays,,,,
-Distributor,2,High Charge Capacity Power Distributor,Marco Qwent,2,Specialised Legacy Firmware,2,Chromium,1,High Density Composites,1,Polymer Capacitors,1,Platinum
-Distributor,3,High Charge Capacity Power Distributor,Marco Qwent,1,Specialised Legacy Firmware,3,Chromium,2,High Density Composites,2,Polymer Capacitors,1,Modular Terminals
-Distributor,1,Charge Enhanced Power Distributor,Marco Qwent,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
-Distributor,2,Charge Enhanced Power Distributor,Marco Qwent,2,Specialised Legacy Firmware,2,Chemical Processors,1,Focus Crystals,1,Nanobreakers,,
-Distributor,3,Charge Enhanced Power Distributor,Marco Qwent,1,Grid Resistors,2,Modified Consumer Firmware,2,Chemical Distillery,1,Refined Focus Crystals,1,Praseodymium
-Distributor,1,Engine Focused Power Distributor,Marco Qwent,2,Sulphur,1,Conductive Components,,,,,,
-Distributor,2,Engine Focused Power Distributor,Marco Qwent,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
-Distributor,3,Engine Focused Power Distributor,Marco Qwent,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Distributor,1,System Focused Power Distributor,Marco Qwent,2,Sulphur,1,Conductive Components,,,,,,
-Distributor,2,System Focused Power Distributor,Marco Qwent,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
-Distributor,3,System Focused Power Distributor,Marco Qwent,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Distributor,1,Weapon Focused Power Distributor,Marco Qwent,2,Sulphur,1,Conductive Components,,,,,,
-Distributor,2,Weapon Focused Power Distributor,Marco Qwent,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
-Distributor,3,Weapon Focused Power Distributor,Marco Qwent,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Distributor,1,Shielded Power Distributor,Marco Qwent,1,Worn Shield Emitters,2,Vanadium,,,,,,
-Distributor,2,Shielded Power Distributor,Marco Qwent,2,Carbon,2,Shield Emitters,1,High Density Composites,1,CMM Composite,,
-Distributor,3,Shielded Power Distributor,Marco Qwent,1,Carbon,3,Shield Emitters,2,High Density Composites,1,Osmium,,
-Armour,1,Lightweight Armour,Selene Jean,2,Iron,1,Conductive Components,1,High Density Composites,,,,
-Armour,2,Lightweight Armour,Selene Jean,1,Iron,2,Conductive Components,2,High Density Composites,2,Thermic Alloys,1,HN Shock Mount
-Armour,3,Lightweight Armour,Selene Jean,1,Iron,3,Conductive Components,2,High Density Composites,2,Thermic Alloys,1,Telemetry Suite
 Armour,1,Blast Resistant Armour,Selene Jean,2,Nickel,1,Vanadium,,,,,,
 Armour,2,Blast Resistant Armour,Selene Jean,2,Carbon,2,Zinc,1,High Density Composites,1,CMM Composite,,
 Armour,3,Blast Resistant Armour,Selene Jean,1,Carbon,1,Zinc,2,Zirconium,1,Proprietary Composites,1,Osmium
+Armour,1,Heavy Duty Armour,Liz Ryder,1,Carbon,2,Shield Emitters,,,,,,
 Armour,1,Heavy Duty Armour,Selene Jean,1,Carbon,2,Shield Emitters,,,,,,
 Armour,2,Heavy Duty Armour,Selene Jean,1,Carbon,2,Shield Emitters,2,High Density Composites,1,Articulation Motors,,
 Armour,3,Heavy Duty Armour,Selene Jean,1,Carbon,3,Shield Emitters,3,High Density Composites,1,Reinforced Mounting Plate,,
 Armour,4,Heavy Duty Armour,Selene Jean,1,Vanadium,3,Shielding Sensors,2,Proprietary Composites,1,Reinforced Mounting Plate,,
 Armour,5,Heavy Duty Armour,Selene Jean,1,Tungsten,2,Compound Shielding,2,Core Dynamics Composites,1,Reinforced Mounting Plate,,
+Armour,1,Kinetic Resistant Armour,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
 Armour,1,Kinetic Resistant Armour,Selene Jean,2,Nickel,1,Vanadium,,,,,,
 Armour,2,Kinetic Resistant Armour,Selene Jean,2,Nickel,2,Vanadium,1,Tungsten,1,Micro-Weave Cooling Hoses,,
 Armour,3,Kinetic Resistant Armour,Selene Jean,1,Nickel,1,Vanadium,2,High Density Composites,1,Molybdenum,1,CMM Composite
+Armour,1,Lightweight Armour,Liz Ryder,2,Iron,1,Conductive Components,1,High Density Composites,,,,
+Armour,1,Lightweight Armour,Selene Jean,2,Iron,1,Conductive Components,1,High Density Composites,,,,
+Armour,2,Lightweight Armour,Selene Jean,1,Iron,2,Conductive Components,2,High Density Composites,2,Thermic Alloys,1,HN Shock Mount
+Armour,3,Lightweight Armour,Selene Jean,1,Iron,3,Conductive Components,2,High Density Composites,2,Thermic Alloys,1,Telemetry Suite
+Armour,1,Thermal Resistant Armour,Liz Ryder,2,Heat Conduction Wiring,1,Vanadium,,,,,,
 Armour,1,Thermal Resistant Armour,Selene Jean,2,Heat Conduction Wiring,1,Vanadium,,,,,,
 Armour,2,Thermal Resistant Armour,Selene Jean,2,Nickel,2,Heat Dispersion Plate,1,Tungsten,1,Neofabric Insulation,,
 Armour,3,Thermal Resistant Armour,Selene Jean,1,Nickel,1,Zinc,2,Heat Exchangers,1,Molybdenum,1,Bromellite
-Hull Reinforcements,1,Lightweight Hull Reinforcement,Selene Jean,2,Iron,1,Conductive Components,1,High Density Composites,,,,
-Hull Reinforcements,2,Lightweight Hull Reinforcement,Selene Jean,1,Iron,2,Conductive Components,2,High Density Composites,1,Thermic Alloys,1,HN Shock Mount
-Hull Reinforcements,3,Lightweight Hull Reinforcement,Selene Jean,1,Iron,3,Conductive Components,2,High Density Composites,2,Thermic Alloys,1,Telemetry Suite
-Hull Reinforcements,4,Lightweight Hull Reinforcement,Selene Jean,2,Germanium,3,Conductive Ceramics,2,Proprietary Composites,1,Military Grade Alloys,1,Hardware Diagnostic Sensor
-Hull Reinforcements,5,Lightweight Hull Reinforcement,Selene Jean,2,Conductive Ceramics,3,Tin,2,Military Grade Alloys,1,Hardware Diagnostic Sensor,,
+Beam Laser,1,Light Weight Mount,The Dweller,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Beam Laser,1,Light Weight Mount,Broo Tarquin,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Beam Laser,2,Light Weight Mount,The Dweller,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Beam Laser,1,Long Range Weapon,The Dweller,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Beam Laser,1,Long Range Weapon,Broo Tarquin,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Beam Laser,2,Long Range Weapon,The Dweller,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
+Beam Laser,1,Short Range Blaster,The Dweller,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Beam Laser,1,Short Range Blaster,Broo Tarquin,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Beam Laser,2,Short Range Blaster,The Dweller,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+Beam Laser,1,Sturdy Mount,The Dweller,2,Nickel,1,Vanadium,,,,,,
+Beam Laser,1,Sturdy Mount,Broo Tarquin,2,Nickel,1,Vanadium,,,,,,
+Beam Laser,2,Sturdy Mount,The Dweller,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Booster (Shield),1,Blast Resistant Shield Booster,Felicity Farseer,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
+Booster (Shield),1,Blast Resistant Shield Booster,Lei Cheung,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
+Booster (Shield),1,Blast Resistant Shield Booster,Didi Vatermann,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
+Booster (Shield),2,Blast Resistant Shield Booster,Lei Cheung,2,Iron,2,Conductive Components,1,Untypical Shield Scans,1,Micro Controllers,,
+Booster (Shield),2,Blast Resistant Shield Booster,Didi Vatermann,2,Iron,2,Conductive Components,1,Untypical Shield Scans,1,Micro Controllers,,
+Booster (Shield),3,Blast Resistant Shield Booster,Lei Cheung,1,Iron,1,Conductive Components,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
+Booster (Shield),3,Blast Resistant Shield Booster,Didi Vatermann,1,Iron,1,Conductive Components,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
+Booster (Shield),1,Heavy Duty Shield Booster,Felicity Farseer,1,Grid Resistors,2,Germanium,,,,,,
+Booster (Shield),1,Heavy Duty Shield Booster,Lei Cheung,1,Grid Resistors,2,Germanium,,,,,,
+Booster (Shield),1,Heavy Duty Shield Booster,Didi Vatermann,1,Grid Resistors,2,Germanium,,,,,,
+Booster (Shield),2,Heavy Duty Shield Booster,Lei Cheung,1,Distorted Shield Cycle Recordings,2,Hybrid Capacitors,2,Niobium,1,CMM Composite,,
+Booster (Shield),2,Heavy Duty Shield Booster,Didi Vatermann,1,Distorted Shield Cycle Recordings,2,Hybrid Capacitors,2,Niobium,1,CMM Composite,,
+Booster (Shield),3,Heavy Duty Shield Booster,Lei Cheung,1,Distorted Shield Cycle Recordings,3,Hybrid Capacitors,3,Niobium,1,Magnetic Emitter Coil,,
+Booster (Shield),3,Heavy Duty Shield Booster,Didi Vatermann,1,Distorted Shield Cycle Recordings,3,Hybrid Capacitors,3,Niobium,1,Magnetic Emitter Coil,,
+Booster (Shield),4,Heavy Duty Shield Booster,Didi Vatermann,1,Inconsistent Shield Soak Analysis,3,Electrochemical Arrays,2,Tin,1,Emergency Power Cells,,
+Booster (Shield),5,Heavy Duty Shield Booster,Didi Vatermann,1,Untypical Shield Scans,2,Polymer Capacitors,2,Antimony,1,Emergency Power Cells,,
+Booster (Shield),1,Kinetic Resistant Shield Booster,Felicity Farseer,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
+Booster (Shield),1,Kinetic Resistant Shield Booster,Lei Cheung,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
+Booster (Shield),1,Kinetic Resistant Shield Booster,Didi Vatermann,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
+Booster (Shield),2,Kinetic Resistant Shield Booster,Lei Cheung,2,Grid Resistors,2,Germanium,1,Untypical Shield Scans,1,Micro Controllers,,
+Booster (Shield),2,Kinetic Resistant Shield Booster,Didi Vatermann,2,Grid Resistors,2,Germanium,1,Untypical Shield Scans,1,Micro Controllers,,
+Booster (Shield),3,Kinetic Resistant Shield Booster,Lei Cheung,1,Grid Resistors,1,Hybrid Capacitors,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
+Booster (Shield),3,Kinetic Resistant Shield Booster,Didi Vatermann,1,Grid Resistors,1,Hybrid Capacitors,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
+Booster (Shield),1,Resistance Augmented Shield Booster,Felicity Farseer,2,Phosphorus,1,Germanium,1,Shielding Sensors,,,,
+Booster (Shield),1,Resistance Augmented Shield Booster,Lei Cheung,2,Phosphorus,1,Germanium,1,Shielding Sensors,,,,
+Booster (Shield),1,Resistance Augmented Shield Booster,Didi Vatermann,2,Phosphorus,1,Germanium,1,Shielding Sensors,,,,
+Booster (Shield),2,Resistance Augmented Shield Booster,Lei Cheung,1,Phosphorus,2,Conductive Components,2,Focus Crystals,1,Compound Shielding,1,Praseodymium
+Booster (Shield),2,Resistance Augmented Shield Booster,Didi Vatermann,1,Phosphorus,2,Conductive Components,2,Focus Crystals,1,Compound Shielding,1,Praseodymium
+Booster (Shield),3,Resistance Augmented Shield Booster,Lei Cheung,1,Phosphorus,3,Conductive Components,2,Focus Crystals,2,Compound Shielding,1,Modular Terminals
+Booster (Shield),3,Resistance Augmented Shield Booster,Didi Vatermann,1,Phosphorus,3,Conductive Components,2,Focus Crystals,2,Compound Shielding,1,Modular Terminals
+Booster (Shield),4,Resistance Augmented Shield Booster,Didi Vatermann,2,Manganese,3,Conductive Ceramics,2,Refined Focus Crystals,1,Imperial Shielding,1,Radiation Baffle
+Booster (Shield),5,Resistance Augmented Shield Booster,Didi Vatermann,2,Conductive Ceramics,3,Refined Focus Crystals,2,Imperial Shielding,1,Radiation Baffle,,
+Booster (Shield),1,Thermal Resistant Shield Booster,Felicity Farseer,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
+Booster (Shield),1,Thermal Resistant Shield Booster,Lei Cheung,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
+Booster (Shield),1,Thermal Resistant Shield Booster,Didi Vatermann,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
+Booster (Shield),2,Thermal Resistant Shield Booster,Lei Cheung,2,Heat Conduction Wiring,2,Germanium,1,Untypical Shield Scans,1,Micro Controllers,,
+Booster (Shield),2,Thermal Resistant Shield Booster,Didi Vatermann,2,Heat Conduction Wiring,2,Germanium,1,Untypical Shield Scans,1,Micro Controllers,,
+Booster (Shield),3,Thermal Resistant Shield Booster,Lei Cheung,1,Heat Conduction Wiring,1,Heat Dispersion Plate,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
+Booster (Shield),3,Thermal Resistant Shield Booster,Didi Vatermann,1,Heat Conduction Wiring,1,Heat Dispersion Plate,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
+Burst Laser,1,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,,,,,,
+Burst Laser,1,Efficient Weapon,Broo Tarquin,1,Sulphur,2,Heat Dispersion Plate,,,,,,
+Burst Laser,2,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Burst Laser,2,Efficient Weapon,Broo Tarquin,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Burst Laser,3,Efficient Weapon,Broo Tarquin,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
+Burst Laser,1,Light Weight Mount,The Dweller,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Burst Laser,1,Light Weight Mount,Broo Tarquin,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Burst Laser,2,Light Weight Mount,The Dweller,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Burst Laser,2,Light Weight Mount,Broo Tarquin,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Burst Laser,3,Light Weight Mount,Broo Tarquin,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Burst Laser,1,Long Range Weapon,The Dweller,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Burst Laser,1,Long Range Weapon,Broo Tarquin,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Burst Laser,2,Long Range Weapon,The Dweller,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
+Burst Laser,2,Long Range Weapon,Broo Tarquin,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
+Burst Laser,3,Long Range Weapon,Broo Tarquin,1,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Conductive Polymers,1,Neofabric Insulation
+Burst Laser,1,Overcharged Weapon,The Dweller,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+Burst Laser,1,Overcharged Weapon,Broo Tarquin,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+Burst Laser,2,Overcharged Weapon,The Dweller,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+Burst Laser,2,Overcharged Weapon,Broo Tarquin,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+Burst Laser,3,Overcharged Weapon,Broo Tarquin,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
+Burst Laser,1,Short Range Blaster,The Dweller,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Burst Laser,1,Short Range Blaster,Broo Tarquin,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Burst Laser,2,Short Range Blaster,The Dweller,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+Burst Laser,2,Short Range Blaster,Broo Tarquin,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+Burst Laser,3,Short Range Blaster,Broo Tarquin,1,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Conductive Polymers,1,Neofabric Insulation
+Burst Laser,1,Sturdy Mount,The Dweller,2,Nickel,1,Vanadium,,,,,,
+Burst Laser,1,Sturdy Mount,Broo Tarquin,2,Nickel,1,Vanadium,,,,,,
+Burst Laser,2,Sturdy Mount,The Dweller,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Burst Laser,2,Sturdy Mount,Broo Tarquin,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Burst Laser,3,Sturdy Mount,Broo Tarquin,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Cannon,1,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,,,,,,
+Cannon,2,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Cannon,1,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Cannon,2,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Cannon,1,Long Range Weapon,Tod ""The Blaster"" McQuinn,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Cannon,2,Long Range Weapon,Tod ""The Blaster"" McQuinn,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
+Cannon,1,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+Cannon,2,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+Cannon,1,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Cannon,2,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+Cell Banks,1,Rapid Charge Shield Cell Bank,Elvira Martuuk,2,Sulphur,2,Heat Dispersion Plate,,,,,,
+Cell Banks,1,Specialised Shield Cell Bank,Elvira Martuuk,2,Specialised Legacy Firmware,1,Conductive Components,1,Arsenic,,,,
+Distributor,1,Charge Enhanced Power Distributor,The Dweller,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
+Distributor,1,Charge Enhanced Power Distributor,Marco Qwent,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
+Distributor,1,Charge Enhanced Power Distributor,Hera Tani,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
+Distributor,2,Charge Enhanced Power Distributor,The Dweller,2,Specialised Legacy Firmware,2,Chemical Processors,1,Focus Crystals,1,Nanobreakers,,
+Distributor,2,Charge Enhanced Power Distributor,Marco Qwent,2,Specialised Legacy Firmware,2,Chemical Processors,1,Focus Crystals,1,Nanobreakers,,
+Distributor,2,Charge Enhanced Power Distributor,Hera Tani,2,Specialised Legacy Firmware,2,Chemical Processors,1,Focus Crystals,1,Nanobreakers,,
+Distributor,3,Charge Enhanced Power Distributor,The Dweller,1,Grid Resistors,2,Modified Consumer Firmware,2,Chemical Distillery,1,Refined Focus Crystals,1,Praseodymium
+Distributor,3,Charge Enhanced Power Distributor,Marco Qwent,1,Grid Resistors,2,Modified Consumer Firmware,2,Chemical Distillery,1,Refined Focus Crystals,1,Praseodymium
+Distributor,3,Charge Enhanced Power Distributor,Hera Tani,1,Grid Resistors,2,Modified Consumer Firmware,2,Chemical Distillery,1,Refined Focus Crystals,1,Praseodymium
+Distributor,4,Charge Enhanced Power Distributor,The Dweller,1,Hybrid Capacitors,2,Cracked Industrial Firmware,2,Chemical Manipulators,1,Exquisite Focus Crystals,1,Ion Distributor
+Distributor,5,Charge Enhanced Power Distributor,The Dweller,3,Cracked Industrial Firmware,2,Chemical Manipulators,2,Exquisite Focus Crystals,1,Ion Distributor,,
+Distributor,1,Engine Focused Power Distributor,The Dweller,2,Sulphur,1,Conductive Components,,,,,,
+Distributor,1,Engine Focused Power Distributor,Marco Qwent,2,Sulphur,1,Conductive Components,,,,,,
+Distributor,1,Engine Focused Power Distributor,Hera Tani,2,Sulphur,1,Conductive Components,,,,,,
+Distributor,2,Engine Focused Power Distributor,The Dweller,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
+Distributor,2,Engine Focused Power Distributor,Marco Qwent,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
+Distributor,2,Engine Focused Power Distributor,Hera Tani,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
+Distributor,3,Engine Focused Power Distributor,The Dweller,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
+Distributor,3,Engine Focused Power Distributor,Marco Qwent,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
+Distributor,3,Engine Focused Power Distributor,Hera Tani,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
+Distributor,1,High Charge Capacity Power Distributor,The Dweller,2,Sulphur,1,Zinc,1,Electrochemical Arrays,,,,
+Distributor,1,High Charge Capacity Power Distributor,Marco Qwent,2,Sulphur,1,Zinc,1,Electrochemical Arrays,,,,
+Distributor,1,High Charge Capacity Power Distributor,Hera Tani,2,Sulphur,1,Zinc,1,Electrochemical Arrays,,,,
+Distributor,2,High Charge Capacity Power Distributor,The Dweller,2,Specialised Legacy Firmware,2,Chromium,1,High Density Composites,1,Polymer Capacitors,1,Platinum
+Distributor,2,High Charge Capacity Power Distributor,Marco Qwent,2,Specialised Legacy Firmware,2,Chromium,1,High Density Composites,1,Polymer Capacitors,1,Platinum
+Distributor,2,High Charge Capacity Power Distributor,Hera Tani,2,Specialised Legacy Firmware,2,Chromium,1,High Density Composites,1,Polymer Capacitors,1,Platinum
+Distributor,3,High Charge Capacity Power Distributor,The Dweller,1,Specialised Legacy Firmware,3,Chromium,2,High Density Composites,2,Polymer Capacitors,1,Modular Terminals
+Distributor,3,High Charge Capacity Power Distributor,Marco Qwent,1,Specialised Legacy Firmware,3,Chromium,2,High Density Composites,2,Polymer Capacitors,1,Modular Terminals
+Distributor,3,High Charge Capacity Power Distributor,Hera Tani,1,Specialised Legacy Firmware,3,Chromium,2,High Density Composites,2,Polymer Capacitors,1,Modular Terminals
+Distributor,4,High Charge Capacity Power Distributor,The Dweller,2,Modified Consumer Firmware,2,Selenium,2,Proprietary Composites,1,Military Supercapacitors,1,Modular Terminals
+Distributor,5,High Charge Capacity Power Distributor,The Dweller,2,Cracked Industrial Firmware,2,Proprietary Composites,2,Military Supercapacitors,1,Emergency Power Cells,,
+Distributor,1,Shielded Power Distributor,The Dweller,1,Worn Shield Emitters,2,Vanadium,,,,,,
+Distributor,1,Shielded Power Distributor,Marco Qwent,1,Worn Shield Emitters,2,Vanadium,,,,,,
+Distributor,1,Shielded Power Distributor,Hera Tani,1,Worn Shield Emitters,2,Vanadium,,,,,,
+Distributor,2,Shielded Power Distributor,The Dweller,2,Carbon,2,Shield Emitters,1,High Density Composites,1,CMM Composite,,
+Distributor,2,Shielded Power Distributor,Marco Qwent,2,Carbon,2,Shield Emitters,1,High Density Composites,1,CMM Composite,,
+Distributor,2,Shielded Power Distributor,Hera Tani,2,Carbon,2,Shield Emitters,1,High Density Composites,1,CMM Composite,,
+Distributor,3,Shielded Power Distributor,The Dweller,1,Carbon,3,Shield Emitters,2,High Density Composites,1,Osmium,,
+Distributor,3,Shielded Power Distributor,Marco Qwent,1,Carbon,3,Shield Emitters,2,High Density Composites,1,Osmium,,
+Distributor,3,Shielded Power Distributor,Hera Tani,1,Carbon,3,Shield Emitters,2,High Density Composites,1,Osmium,,
+Distributor,4,Shielded Power Distributor,The Dweller,1,Vanadium,3,Shielding Sensors,2,Proprietary Composites,1,Reinforced Mounting Plate,,
+Distributor,5,Shielded Power Distributor,The Dweller,1,Tungsten,3,Compound Shielding,1,Core Dynamics Composites,1,Reinforced Mounting Plate,,
+Distributor,1,System Focused Power Distributor,The Dweller,2,Sulphur,1,Conductive Components,,,,,,
+Distributor,1,System Focused Power Distributor,Marco Qwent,2,Sulphur,1,Conductive Components,,,,,,
+Distributor,1,System Focused Power Distributor,Hera Tani,2,Sulphur,1,Conductive Components,,,,,,
+Distributor,2,System Focused Power Distributor,The Dweller,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
+Distributor,2,System Focused Power Distributor,Marco Qwent,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
+Distributor,2,System Focused Power Distributor,Hera Tani,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
+Distributor,3,System Focused Power Distributor,The Dweller,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
+Distributor,3,System Focused Power Distributor,Marco Qwent,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
+Distributor,3,System Focused Power Distributor,Hera Tani,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
+Distributor,1,Weapon Focused Power Distributor,The Dweller,2,Sulphur,1,Conductive Components,,,,,,
+Distributor,1,Weapon Focused Power Distributor,Marco Qwent,2,Sulphur,1,Conductive Components,,,,,,
+Distributor,1,Weapon Focused Power Distributor,Hera Tani,2,Sulphur,1,Conductive Components,,,,,,
+Distributor,2,Weapon Focused Power Distributor,The Dweller,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
+Distributor,2,Weapon Focused Power Distributor,Marco Qwent,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
+Distributor,2,Weapon Focused Power Distributor,Hera Tani,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
+Distributor,3,Weapon Focused Power Distributor,The Dweller,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
+Distributor,3,Weapon Focused Power Distributor,Marco Qwent,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
+Distributor,3,Weapon Focused Power Distributor,Hera Tani,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
+Frag Cannon,1,Double Shot,Tod ""The Blaster"" McQuinn,2,Carbon,1,Mechanical Equipment,,,,,,
+Frag Cannon,1,Double Shot,Zacariah Nemo,2,Carbon,1,Mechanical Equipment,,,,,,
+Frag Cannon,2,Double Shot,Tod ""The Blaster"" McQuinn,2,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Micro Controllers,,
+Frag Cannon,2,Double Shot,Zacariah Nemo,2,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Micro Controllers,,
+Frag Cannon,3,Double Shot,Tod ""The Blaster"" McQuinn,1,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Mercury,1,Osmium
+Frag Cannon,3,Double Shot,Zacariah Nemo,1,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Mercury,1,Osmium
+Frag Cannon,4,Double Shot,Zacariah Nemo,2,Vanadium,2,Mechanical Components,1,Security Firmware Patch,1,Ruthenium,1,Osmium
+Frag Cannon,1,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,,,,,,
+Frag Cannon,1,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,,,,,,
+Frag Cannon,2,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Frag Cannon,2,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Frag Cannon,3,Efficient Weapon,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
+Frag Cannon,3,Efficient Weapon,Zacariah Nemo,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
+Frag Cannon,4,Efficient Weapon,Zacariah Nemo,1,Heat Dispersion Plate,2,Selenium,1,Heat Vanes,1,Heatsink Interlink,,
+Frag Cannon,1,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Frag Cannon,1,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Frag Cannon,2,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Frag Cannon,2,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Frag Cannon,3,High Capacity Magazine,Tod ""The Blaster"" McQuinn,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+Frag Cannon,3,High Capacity Magazine,Zacariah Nemo,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+Frag Cannon,4,High Capacity Magazine,Zacariah Nemo,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
+Frag Cannon,1,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Frag Cannon,1,Light Weight Mount,Zacariah Nemo,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Frag Cannon,2,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Frag Cannon,2,Light Weight Mount,Zacariah Nemo,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Frag Cannon,3,Light Weight Mount,Tod ""The Blaster"" McQuinn,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Frag Cannon,3,Light Weight Mount,Zacariah Nemo,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Frag Cannon,4,Light Weight Mount,Zacariah Nemo,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
+Frag Cannon,1,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+Frag Cannon,1,Overcharged Weapon,Zacariah Nemo,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+Frag Cannon,2,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+Frag Cannon,2,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+Frag Cannon,3,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
+Frag Cannon,3,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
+Frag Cannon,4,Overcharged Weapon,Zacariah Nemo,1,Zinc,2,Conductive Ceramics,2,Polymer Capacitors,1,Modified Embedded Firmware,1,Articulation Motors
+Frag Cannon,1,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,1,Vanadium,,,,,,
+Frag Cannon,1,Sturdy Mount,Zacariah Nemo,2,Nickel,1,Vanadium,,,,,,
+Frag Cannon,2,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Frag Cannon,2,Sturdy Mount,Zacariah Nemo,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Frag Cannon,3,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Frag Cannon,3,Sturdy Mount,Zacariah Nemo,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Frag Cannon,4,Sturdy Mount,Zacariah Nemo,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
+FSD,1,Faster FSD Boot Sequence,Felicity Farseer,2,Grid Resistors,2,Heat Dispersion Plate,,,,,,
+FSD,1,Faster FSD Boot Sequence,Elvira Martuuk,2,Grid Resistors,2,Heat Dispersion Plate,,,,,,
+FSD,1,Faster FSD Boot Sequence,Professor Palin,2,Grid Resistors,2,Heat Dispersion Plate,,,,,,
+FSD,1,Faster FSD Boot Sequence,Bris Dekker,2,Grid Resistors,2,Heat Dispersion Plate,,,,,,
+FSD,2,Faster FSD Boot Sequence,Felicity Farseer,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Micro Controllers,,
+FSD,2,Faster FSD Boot Sequence,Elvira Martuuk,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Micro Controllers,,
+FSD,2,Faster FSD Boot Sequence,Professor Palin,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Micro Controllers,,
+FSD,2,Faster FSD Boot Sequence,Bris Dekker,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Micro Controllers,,
+FSD,3,Faster FSD Boot Sequence,Felicity Farseer,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Security Firmware Patch,1,Hardware Diagnostic Sensor
+FSD,3,Faster FSD Boot Sequence,Elvira Martuuk,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Security Firmware Patch,1,Hardware Diagnostic Sensor
+FSD,3,Faster FSD Boot Sequence,Professor Palin,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Security Firmware Patch,1,Hardware Diagnostic Sensor
+FSD,3,Faster FSD Boot Sequence,Bris Dekker,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Security Firmware Patch,1,Hardware Diagnostic Sensor
+FSD,4,Faster FSD Boot Sequence,Felicity Farseer,1,Chromium,2,Electrochemical Arrays,2,Heat Vanes,1,Modified Embedded Firmware,1,Hardware Diagnostic Sensor
+FSD,4,Faster FSD Boot Sequence,Elvira Martuuk,1,Chromium,2,Electrochemical Arrays,2,Heat Vanes,1,Modified Embedded Firmware,1,Hardware Diagnostic Sensor
+FSD,5,Faster FSD Boot Sequence,Felicity Farseer,1,Selenium,2,Polymer Capacitors,2,Proto Heat Radiators,1,Radiation Baffle,,
+FSD,5,Faster FSD Boot Sequence,Elvira Martuuk,1,Selenium,2,Polymer Capacitors,2,Proto Heat Radiators,1,Radiation Baffle,,
+FSD,1,Increased FSD Range,Felicity Farseer,2,Atypical Disrupted Wake Echoes,2,Chemical Processors,1,Arsenic,,,,
+FSD,1,Increased FSD Range,Elvira Martuuk,2,Atypical Disrupted Wake Echoes,2,Chemical Processors,1,Arsenic,,,,
+FSD,1,Increased FSD Range,Professor Palin,2,Atypical Disrupted Wake Echoes,2,Chemical Processors,1,Arsenic,,,,
+FSD,1,Increased FSD Range,Bris Dekker,2,Atypical Disrupted Wake Echoes,2,Chemical Processors,1,Arsenic,,,,
+FSD,2,Increased FSD Range,Felicity Farseer,3,Atypical Disrupted Wake Echoes,2,Chemical Processors,2,Arsenic,1,Praseodymium,,
+FSD,2,Increased FSD Range,Elvira Martuuk,3,Atypical Disrupted Wake Echoes,2,Chemical Processors,2,Arsenic,1,Praseodymium,,
+FSD,2,Increased FSD Range,Professor Palin,3,Atypical Disrupted Wake Echoes,2,Chemical Processors,2,Arsenic,1,Praseodymium,,
+FSD,2,Increased FSD Range,Bris Dekker,3,Atypical Disrupted Wake Echoes,2,Chemical Processors,2,Arsenic,1,Praseodymium,,
+FSD,3,Increased FSD Range,Felicity Farseer,2,Atypical Disrupted Wake Echoes,3,Chemical Processors,2,Selenium,1,Yttrium,1,Modular Terminals
+FSD,3,Increased FSD Range,Elvira Martuuk,2,Atypical Disrupted Wake Echoes,3,Chemical Processors,2,Selenium,1,Yttrium,1,Modular Terminals
+FSD,3,Increased FSD Range,Professor Palin,2,Atypical Disrupted Wake Echoes,3,Chemical Processors,2,Selenium,1,Yttrium,1,Modular Terminals
+FSD,3,Increased FSD Range,Bris Dekker,2,Atypical Disrupted Wake Echoes,3,Chemical Processors,2,Selenium,1,Yttrium,1,Modular Terminals
+FSD,4,Increased FSD Range,Felicity Farseer,2,Anomalous FSD Telemetry,3,Chemical Distillery,2,Yttrium,1,Energy Grid Assembly,,
+FSD,4,Increased FSD Range,Elvira Martuuk,2,Anomalous FSD Telemetry,3,Chemical Distillery,2,Yttrium,1,Energy Grid Assembly,,
+FSD,5,Increased FSD Range,Felicity Farseer,2,Strange Wake Solutions,2,Chemical Manipulators,2,Polonium,1,Magnetic Emitter Coil,,
+FSD,5,Increased FSD Range,Elvira Martuuk,2,Strange Wake Solutions,2,Chemical Manipulators,2,Polonium,1,Magnetic Emitter Coil,,
+FSD,1,Shielded FSD,Felicity Farseer,1,Nickel,2,Shield Emitters,,,,,,
+FSD,1,Shielded FSD,Elvira Martuuk,1,Nickel,2,Shield Emitters,,,,,,
+FSD,1,Shielded FSD,Professor Palin,1,Nickel,2,Shield Emitters,,,,,,
+FSD,1,Shielded FSD,Bris Dekker,1,Nickel,2,Shield Emitters,,,,,,
+FSD,2,Shielded FSD,Felicity Farseer,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Insulating Membrane,,
+FSD,2,Shielded FSD,Elvira Martuuk,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Insulating Membrane,,
+FSD,2,Shielded FSD,Professor Palin,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Insulating Membrane,,
+FSD,2,Shielded FSD,Bris Dekker,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Insulating Membrane,,
+FSD,3,Shielded FSD,Felicity Farseer,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Micro-Weave Cooling Hoses,,
+FSD,3,Shielded FSD,Elvira Martuuk,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Micro-Weave Cooling Hoses,,
+FSD,3,Shielded FSD,Professor Palin,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Micro-Weave Cooling Hoses,,
+FSD,3,Shielded FSD,Bris Dekker,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Micro-Weave Cooling Hoses,,
+FSD,4,Shielded FSD,Felicity Farseer,1,Vanadium,2,High Density Composites,2,Compound Shielding,1,Bromellite,,
+FSD,4,Shielded FSD,Elvira Martuuk,1,Vanadium,2,High Density Composites,2,Compound Shielding,1,Bromellite,,
+FSD,5,Shielded FSD,Felicity Farseer,1,Tungsten,2,Proprietary Composites,1,Imperial Shielding,1,Radiation Baffle,,
+FSD,5,Shielded FSD,Elvira Martuuk,1,Tungsten,2,Proprietary Composites,1,Imperial Shielding,1,Radiation Baffle,,
+Hull Reinforcement,1,Blast Resistant Hull Reinforcement,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
+Hull Reinforcement,1,Heavy Duty Hull Reinforcement,Liz Ryder,1,Carbon,2,Shield Emitters,,,,,,
+Hull Reinforcement,1,Kinetic Resistant Hull Reinforcement,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
+Hull Reinforcement,1,Lightweight Hull Reinforcement,Liz Ryder,2,Iron,1,Conductive Components,1,High Density Composites,,,,
+Hull Reinforcement,1,Thermal Resistant Hull Reinforcement,Liz Ryder,2,Heat Conduction Wiring,1,Vanadium,,,,,,
 Hull Reinforcements,1,Blast Resistant Hull Reinforcement,Selene Jean,2,Nickel,1,Vanadium,,,,,,
 Hull Reinforcements,2,Blast Resistant Hull Reinforcement,Selene Jean,2,Carbon,2,Zinc,1,High Density Composites,1,CMM Composite,,
 Hull Reinforcements,3,Blast Resistant Hull Reinforcement,Selene Jean,1,Carbon,1,Zinc,2,Zirconium,1,Proprietary Composites,1,Osmium
@@ -326,51 +279,99 @@ Hull Reinforcements,5,Heavy Duty Hull Reinforcement,Selene Jean,1,Tungsten,2,Com
 Hull Reinforcements,1,Kinetic Resistant Hull Reinforcement,Selene Jean,2,Nickel,1,Vanadium,,,,,,
 Hull Reinforcements,2,Kinetic Resistant Hull Reinforcement,Selene Jean,2,Nickel,2,Vanadium,1,Tungsten,1,Micro-Weave Cooling Hoses,,
 Hull Reinforcements,3,Kinetic Resistant Hull Reinforcement,Selene Jean,1,Nickel,1,Vanadium,2,High Density Composites,1,Molybdenum,1,CMM Composite
+Hull Reinforcements,1,Lightweight Hull Reinforcement,Selene Jean,2,Iron,1,Conductive Components,1,High Density Composites,,,,
+Hull Reinforcements,2,Lightweight Hull Reinforcement,Selene Jean,1,Iron,2,Conductive Components,2,High Density Composites,1,Thermic Alloys,1,HN Shock Mount
+Hull Reinforcements,3,Lightweight Hull Reinforcement,Selene Jean,1,Iron,3,Conductive Components,2,High Density Composites,2,Thermic Alloys,1,Telemetry Suite
+Hull Reinforcements,4,Lightweight Hull Reinforcement,Selene Jean,2,Germanium,3,Conductive Ceramics,2,Proprietary Composites,1,Military Grade Alloys,1,Hardware Diagnostic Sensor
+Hull Reinforcements,5,Lightweight Hull Reinforcement,Selene Jean,2,Conductive Ceramics,3,Tin,2,Military Grade Alloys,1,Hardware Diagnostic Sensor,,
 Hull Reinforcements,1,Thermal Resistant Hull Reinforcement,Selene Jean,2,Heat Conduction Wiring,1,Vanadium,,,,,,
 Hull Reinforcements,2,Thermal Resistant Hull Reinforcement,Selene Jean,2,Nickel,2,Heat Dispersion Plate,1,Tungsten,1,Neofabric Insulation,,
 Hull Reinforcements,3,Thermal Resistant Hull Reinforcement,Selene Jean,1,Nickel,1,Zinc,2,Heat Exchangers,1,Molybdenum,1,Bromellite
-Multi-Cannon,1,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Multi-Cannon,2,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,1,Heat exchangers,1,Micro-Weave Cooling Hoses,,
-Multi-Cannon,3,Efficient Weapon,Zacariah Nemo,2,Heat Conduction Wiring,2,Chromium,2,Heat exchangers,1,Samarium,,
-Multi-Cannon,1,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Multi-Cannon,2,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Multi-Cannon,3,High Capacity Magazine,Zacariah Nemo,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
-Multi-Cannon,1,Light Weight Mount,Zacariah Nemo,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Multi-Cannon,2,Light Weight Mount,Zacariah Nemo,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Multi-Cannon,3,Light Weight Mount,Zacariah Nemo,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Multi-Cannon,1,Overcharged Weapon,Zacariah Nemo,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Multi-Cannon,2,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Multi-Cannon,3,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
-Multi-Cannon,1,Short Range Blaster,Zacariah Nemo,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Multi-Cannon,2,Short Range Blaster,Zacariah Nemo,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-Multi-Cannon,3,Short Range Blaster,Zacariah Nemo,1,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Conductive Polymers,1,Neofabric Insulation
-Multi-Cannon,1,Sturdy Mount,Zacariah Nemo,2,Nickel,1,Vanadium,,,,,,
-Multi-Cannon,2,Sturdy Mount,Zacariah Nemo,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Multi-Cannon,3,Sturdy Mount,Zacariah Nemo,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Frag Cannon,1,Double Shot,Zacariah Nemo,2,Carbon,1,Mechanical Equipment,,,,,,
-Frag Cannon,2,Double Shot,Zacariah Nemo,2,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Micro Controllers,,
-Frag Cannon,3,Double Shot,Zacariah Nemo,1,Carbon,2,Mechanical Equipment,1,Cracked Industrial Firmware,1,Mercury,1,Osmium
-Frag Cannon,4,Double Shot,Zacariah Nemo,2,Vanadium,2,Mechanical Components,1,Security Firmware Patch,1,Ruthenium,1,Osmium
-Frag Cannon,1,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Frag Cannon,2,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Frag Cannon,3,Efficient Weapon,Zacariah Nemo,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
-Frag Cannon,4,Efficient Weapon,Zacariah Nemo,1,Heat Dispersion Plate,2,Selenium,1,Heat Vanes,1,Heatsink Interlink,,
-Frag Cannon,1,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Frag Cannon,2,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Frag Cannon,3,High Capacity Magazine,Zacariah Nemo,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
-Frag Cannon,4,High Capacity Magazine,Zacariah Nemo,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
-Frag Cannon,1,Light Weight Mount,Zacariah Nemo,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Frag Cannon,2,Light Weight Mount,Zacariah Nemo,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Frag Cannon,3,Light Weight Mount,Zacariah Nemo,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Frag Cannon,4,Light Weight Mount,Zacariah Nemo,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
-Frag Cannon,1,Overcharged Weapon,Zacariah Nemo,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Frag Cannon,2,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Frag Cannon,3,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
-Frag Cannon,4,Overcharged Weapon,Zacariah Nemo,1,Zinc,2,Conductive Ceramics,2,Polymer Capacitors,1,Modified Embedded Firmware,1,Articulation Motors
-Frag Cannon,1,Sturdy Mount,Zacariah Nemo,2,Nickel,1,Vanadium,,,,,,
-Frag Cannon,2,Sturdy Mount,Zacariah Nemo,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Frag Cannon,3,Sturdy Mount,Zacariah Nemo,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Frag Cannon,4,Sturdy Mount,Zacariah Nemo,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
+Interdictor,1,Expanded FSD Interdictor Capture Arc,Felicity Farseer,2,Mechanical Scrap,1,Anomalous FSD Telemetry,,,,,,
+Interdictor,1,Longer Range FSD Interdictor,Felicity Farseer,2,Iron,1,Tagged Encryption Codes,,,,,,
+Interdictor (FSD),1,Expanded FSD Interdictor Capture Arc,Bris Dekker,2,Mechanical Scrap,1,Anomalous FSD Telemetry,,,,,,
+Interdictor (FSD),2,Expanded FSD Interdictor Capture Arc,Bris Dekker,2,Grid Resistors,2,Mechanical Equipment,1,Strange Wake Solutions,,,,
+Interdictor (FSD),3,Expanded FSD Interdictor Capture Arc,Bris Dekker,1,Grid Resistors,1,Hybrid Capacitors,2,Mechanical Components,1,Eccentric Hyperspace Trajectories,,
+Interdictor (FSD),4,Expanded FSD Interdictor Capture Arc,Bris Dekker,2,Mechanical Components,2,Eccentric Hyperspace Trajectories,,,,,,
+Interdictor (FSD),1,Longer Range FSD Interdictor,Bris Dekker,2,Iron,1,Tagged Encryption Codes,,,,,,
+Interdictor (FSD),2,Longer Range FSD Interdictor,Bris Dekker,2,Grid Resistors,2,Anomalous FSD Telemetry,1,Open Symmetric Keys,,,,
+Interdictor (FSD),3,Longer Range FSD Interdictor,Bris Dekker,1,Iron,1,Hybrid Capacitors,2,Strange Wake Solutions,1,Atypical Encryption Archives,1,Nanobreakers
+Mine Launcher,1,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Mine Launcher,1,High Capacity Magazine,Juri Ishmaak,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Mine Launcher,2,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Mine Launcher,2,High Capacity Magazine,Juri Ishmaak,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Mine Launcher,3,High Capacity Magazine,Liz Ryder,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+Mine Launcher,3,High Capacity Magazine,Juri Ishmaak,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+Mine Launcher,4,High Capacity Magazine,Juri Ishmaak,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
+Mine Launcher,1,Light Weight Mount,Liz Ryder,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Mine Launcher,1,Light Weight Mount,Juri Ishmaak,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Mine Launcher,2,Light Weight Mount,Liz Ryder,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Mine Launcher,2,Light Weight Mount,Juri Ishmaak,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Mine Launcher,3,Light Weight Mount,Liz Ryder,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Mine Launcher,3,Light Weight Mount,Juri Ishmaak,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Mine Launcher,4,Light Weight Mount,Juri Ishmaak,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
+Mine Launcher,1,Rapid Fire Modification,Liz Ryder,2,Mechanical Scrap,2,Heat Dispersion Plate,,,,,,
+Mine Launcher,1,Rapid Fire Modification,Juri Ishmaak,2,Mechanical Scrap,2,Heat Dispersion Plate,,,,,,
+Mine Launcher,2,Rapid Fire Modification,Liz Ryder,3,Mechanical Scrap,2,Heat Dispersion Plate,1,Tungsten,1,HN Shock Mount,,
+Mine Launcher,2,Rapid Fire Modification,Juri Ishmaak,3,Mechanical Scrap,2,Heat Dispersion Plate,1,Tungsten,1,HN Shock Mount,,
+Mine Launcher,3,Rapid Fire Modification,Liz Ryder,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Precipitated Alloys,1,Molybdenum,1,Osmium
+Mine Launcher,3,Rapid Fire Modification,Juri Ishmaak,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Precipitated Alloys,1,Molybdenum,1,Osmium
+Mine Launcher,4,Rapid Fire Modification,Juri Ishmaak,1,Modified Consumer Firmware,1,Mechanical Components,2,Thermic Alloys,1,Technetium,1,Telemetry Suite
+Mine Launcher,1,Sturdy Mount,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
+Mine Launcher,1,Sturdy Mount,Juri Ishmaak,2,Nickel,1,Vanadium,,,,,,
+Mine Launcher,2,Sturdy Mount,Liz Ryder,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Mine Launcher,2,Sturdy Mount,Juri Ishmaak,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Mine Launcher,3,Sturdy Mount,Liz Ryder,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Mine Launcher,3,Sturdy Mount,Juri Ishmaak,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Mine Launcher,4,Sturdy Mount,Juri Ishmaak,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
+MultiCannon,1,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,,,,,,
+MultiCannon,1,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,,,,,,
+MultiCannon,2,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+MultiCannon,2,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,1,Heat exchangers,1,Micro-Weave Cooling Hoses,,
+MultiCannon,3,Efficient Weapon,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
+MultiCannon,3,Efficient Weapon,Zacariah Nemo,2,Heat Conduction Wiring,2,Chromium,2,Heat exchangers,1,Samarium,,
+MultiCannon,4,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Heat Dispersion Plate,2,Selenium,1,Heat Vanes,1,Heatsink Interlink,,
+MultiCannon,5,Efficient Weapon,Tod ""The Blaster"" McQuinn,1,Precipitated Alloys,2,Cadmium,1,Proto Heat Radiators,1,Heatsink Interlink,,
+MultiCannon,1,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+MultiCannon,1,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+MultiCannon,2,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+MultiCannon,2,High Capacity Magazine,Zacariah Nemo,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+MultiCannon,3,High Capacity Magazine,Tod ""The Blaster"" McQuinn,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+MultiCannon,3,High Capacity Magazine,Zacariah Nemo,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+MultiCannon,4,High Capacity Magazine,Tod ""The Blaster"" McQuinn,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
+MultiCannon,5,High Capacity Magazine,Tod ""The Blaster"" McQuinn,1,Mechanical Components,2,Proprietary Composites,2,Military Supercapacitors,2,Reinforced Mounting Plate,,
+MultiCannon,1,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Phosphorus,1,Galvanising Alloys,,,,,,
+MultiCannon,1,Light Weight Mount,Zacariah Nemo,2,Phosphorus,1,Galvanising Alloys,,,,,,
+MultiCannon,2,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+MultiCannon,2,Light Weight Mount,Zacariah Nemo,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+MultiCannon,3,Light Weight Mount,Tod ""The Blaster"" McQuinn,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+MultiCannon,3,Light Weight Mount,Zacariah Nemo,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+MultiCannon,4,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
+MultiCannon,5,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Conductive Polymers,1,Proto Radiolic Alloys,1,Magnetic Emitter Coil,,,,
+MultiCannon,1,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+MultiCannon,1,Overcharged Weapon,Zacariah Nemo,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+MultiCannon,2,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+MultiCannon,2,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+MultiCannon,3,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
+MultiCannon,3,Overcharged Weapon,Zacariah Nemo,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
+MultiCannon,4,Overcharged Weapon,Tod ""The Blaster"" McQuinn,1,Zinc,2,Conductive Ceramics,2,Polymer Capacitors,1,Modified Embedded Firmware,1,Articulation Motors
+MultiCannon,5,Overcharged Weapon,Tod ""The Blaster"" McQuinn,2,Zirconium,2,Conductive Polymers,2,Modified Embedded Firmware,1,Reinforced Mounting Plate,,
+MultiCannon,1,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,1,Modified Consumer Firmware,,,,,,
+MultiCannon,1,Short Range Blaster,Zacariah Nemo,2,Nickel,1,Modified Consumer Firmware,,,,,,
+MultiCannon,2,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+MultiCannon,2,Short Range Blaster,Zacariah Nemo,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+MultiCannon,3,Short Range Blaster,Tod ""The Blaster"" McQuinn,1,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Conductive Polymers,1,Neofabric Insulation
+MultiCannon,3,Short Range Blaster,Zacariah Nemo,1,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Conductive Polymers,1,Neofabric Insulation
+MultiCannon,4,Short Range Blaster,Tod ""The Blaster"" McQuinn,1,Modified Consumer Firmware,2,Electrochemical Arrays,2,Conductive Polymers,1,Platinum,,
+MultiCannon,5,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Security Firmware Patch,1,Improvised Components,1,Magnetic Emitter Coil,,,,
+MultiCannon,1,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,1,Vanadium,,,,,,
+MultiCannon,1,Sturdy Mount,Zacariah Nemo,2,Nickel,1,Vanadium,,,,,,
+MultiCannon,2,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+MultiCannon,2,Sturdy Mount,Zacariah Nemo,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+MultiCannon,3,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+MultiCannon,3,Sturdy Mount,Zacariah Nemo,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+MultiCannon,4,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
+MultiCannon,5,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Proprietary Composites,1,Technetium,1,Radiation Baffle,,,,
 Plasma Accelerators,1,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,,,,,,
 Plasma Accelerators,2,Efficient Weapon,Zacariah Nemo,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
 Plasma Accelerators,1,Focused Weapon,Zacariah Nemo,1,Iron,1,Conductive Components,1,Electrochemical Arrays,,,,
@@ -383,192 +384,191 @@ Plasma Accelerators,1,Rapid Fire Modification,Zacariah Nemo,2,Mechanical Scrap,2
 Plasma Accelerators,2,Rapid Fire Modification,Zacariah Nemo,3,Mechanical Scrap,2,Heat Dispersion Plate,1,Tungsten,1,HN Shock Mount,,
 Plasma Accelerators,1,Sturdy Mount,Zacariah Nemo,2,Nickel,1,Vanadium,,,,,,
 Plasma Accelerators,2,Sturdy Mount,Zacariah Nemo,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Shield Generator,1,Kinetic Resistant Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,,,,,,
-Shield Generator,2,Kinetic Resistant Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,2,Modified Consumer Firmware,1,Zirconium,1,Micro-Weave Cooling Hoses,,
-Shield Generator,3,Kinetic Resistant Shields,Lei Cheung,1,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,2,Selenium,2,Mercury,1,Micro-Weave Cooling Hoses
-Shield Generator,4,Kinetic Resistant Shields,Lei Cheung,2,Untypical Shield Scans,2,Refined Focus Crystals,1,Ion Distributor,,,,
-Shield Generator,5,Kinetic Resistant Shields,Lei Cheung,2,Aberrant Shield Pattern Analysis,1,Exquisite Focus Crystals,1,Ion Distributor,,,,
-Shield Generator,1,Enhanced Low Power Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,1,Germanium,1,Focus Crystals,,,,
-Shield Generator,2,Enhanced Low Power Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,2,Germanium,2,Focus Crystals,1,Micro Controllers,,
-Shield Generator,3,Enhanced Low Power Shields,Lei Cheung,1,Distorted Shield Cycle Recordings,2,Germanium,2,Precipitated Alloys,1,Refined Focus Crystals,1,Power Transfer Bus
-Shield Generator,4,Enhanced Low Power Shields,Lei Cheung,1,Inconsistent Shield Soak Analysis,2,Niobium,3,Thermic Alloys,1,Nanobreakers,,
-Shield Generator,5,Enhanced Low Power Shields,Lei Cheung,2,Untypical Shield Scans,2,Tin,2,Military Grade Alloys,1,Platinum,,
-Shield Generator,1,Reinforced Shields,Lei Cheung,1,Phosphorus,2,Conductive Components,,,,,,
-Shield Generator,2,Reinforced Shields,Lei Cheung,2,Phosphorus,2,Conductive Components,1,Mechanical Components,1,Modular Terminals,,
-Shield Generator,3,Reinforced Shields,Lei Cheung,1,Phosphorus,2,Conductive Components,2,Mechanical Components,1,Magnetic Emitter Coil,,
-Shield Generator,4,Reinforced Shields,Lei Cheung,1,Manganese,2,Conductive Ceramics,2,Configurable Components,1,Magnetic Emitter Coil,,
-Shield Generator,5,Reinforced Shields,Lei Cheung,1,Arsenic,2,Conductive Polymers,1,Improvised Components,1,Ion Distributor,,
-Shield Generator,1,Thermal Resistant Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,1,Germanium,,,,,,
-Shield Generator,2,Thermal Resistant Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,2,Germanium,1,Zirconium,1,Micro-Weave Cooling Hoses,,
-Shield Generator,3,Thermal Resistant Shields,Lei Cheung,1,Distorted Shield Cycle Recordings,1,Germanium,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
-Shield Generator,4,Thermal Resistant Shields,Lei Cheung,2,Untypical Shield Scans,2,Refined Focus Crystals,1,Ion Distributor,,,,
-Shield Generator,5,Thermal Resistant Shields,Lei Cheung,2,Aberrant Shield Pattern Analysis,1,Exquisite Focus Crystals,1,Ion Distributor,,,,
-Booster (Shield),1,Blast Resistant Shield Booster,Lei Cheung,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
-Booster (Shield),2,Blast Resistant Shield Booster,Lei Cheung,2,Iron,2,Conductive Components,1,Untypical Shield Scans,1,Micro Controllers,,
-Booster (Shield),3,Blast Resistant Shield Booster,Lei Cheung,1,Iron,1,Conductive Components,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
-Booster (Shield),1,Heavy Duty Shield Booster,Lei Cheung,1,Grid Resistors,2,Germanium,,,,,,
-Booster (Shield),2,Heavy Duty Shield Booster,Lei Cheung,1,Distorted Shield Cycle Recordings,2,Hybrid Capacitors,2,Niobium,1,CMM Composite,,
-Booster (Shield),3,Heavy Duty Shield Booster,Lei Cheung,1,Distorted Shield Cycle Recordings,3,Hybrid Capacitors,3,Niobium,1,Magnetic Emitter Coil,,
-Booster (Shield),1,Kinetic Resistant Shield Booster,Lei Cheung,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
-Booster (Shield),2,Kinetic Resistant Shield Booster,Lei Cheung,2,Grid Resistors,2,Germanium,1,Untypical Shield Scans,1,Micro Controllers,,
-Booster (Shield),3,Kinetic Resistant Shield Booster,Lei Cheung,1,Grid Resistors,1,Hybrid Capacitors,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
-Booster (Shield),1,Resistance Augmented Shield Booster,Lei Cheung,2,Phosphorus,1,Germanium,1,Shielding Sensors,,,,
-Booster (Shield),2,Resistance Augmented Shield Booster,Lei Cheung,1,Phosphorus,2,Conductive Components,2,Focus Crystals,1,Compound Shielding,1,Praseodymium
-Booster (Shield),3,Resistance Augmented Shield Booster,Lei Cheung,1,Phosphorus,3,Conductive Components,2,Focus Crystals,2,Compound Shielding,1,Modular Terminals
-Booster (Shield),1,Thermal Resistant Shield Booster,Lei Cheung,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
-Booster (Shield),2,Thermal Resistant Shield Booster,Lei Cheung,2,Heat Conduction Wiring,2,Germanium,1,Untypical Shield Scans,1,Micro Controllers,,
-Booster (Shield),3,Thermal Resistant Shield Booster,Lei Cheung,1,Heat Conduction Wiring,1,Heat Dispersion Plate,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
-Shield Generator,1,Kinetic Resistant Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,,,,,,
-Shield Generator,2,Kinetic Resistant Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,2,Modified Consumer Firmware,1,Zirconium,1,Micro-Weave Cooling Hoses,,
-Shield Generator,3,Kinetic Resistant Shields,Didi Vatermann,1,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
-Shield Generator,1,Enhanced Low Power Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,1,Germanium,1,Focus Crystals,,,,
-Shield Generator,2,Enhanced Low Power Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,2,Germanium,2,Focus Crystals,1,Micro Controllers,,
-Shield Generator,3,Enhanced Low Power Shields,Didi Vatermann,1,Distorted Shield Cycle Recordings,2,Germanium,2,Precipitated Alloys,1,Refined Focus Crystals,1,Power Transfer Bus
-Shield Generator,1,Reinforced Shields,Didi Vatermann,1,Phosphorus,2,Conductive Components,,,,,,
-Shield Generator,2,Reinforced Shields,Didi Vatermann,2,Phosphorus,2,Conductive Components,1,Mechanical Components,1,Modular Terminals,,
-Shield Generator,3,Reinforced Shields,Didi Vatermann,1,Phosphorus,2,Conductive Components,2,Mechanical Components,1,Magnetic Emitter Coil,,
-Shield Generator,1,Thermal Resistant Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,1,Germanium,,,,,,
-Shield Generator,2,Thermal Resistant Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,2,Germanium,1,Zirconium,1,Micro-Weave Cooling Hoses,,
-Shield Generator,3,Thermal Resistant Shields,Didi Vatermann,1,Distorted Shield Cycle Recordings,1,Germanium,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
-Booster (Shield),1,Blast Resistant Shield Booster,Didi Vatermann,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
-Booster (Shield),2,Blast Resistant Shield Booster,Didi Vatermann,2,Iron,2,Conductive Components,1,Untypical Shield Scans,1,Micro Controllers,,
-Booster (Shield),3,Blast Resistant Shield Booster,Didi Vatermann,1,Iron,1,Conductive Components,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
-Booster (Shield),1,Heavy Duty Shield Booster,Didi Vatermann,1,Grid Resistors,2,Germanium,,,,,,
-Booster (Shield),2,Heavy Duty Shield Booster,Didi Vatermann,1,Distorted Shield Cycle Recordings,2,Hybrid Capacitors,2,Niobium,1,CMM Composite,,
-Booster (Shield),3,Heavy Duty Shield Booster,Didi Vatermann,1,Distorted Shield Cycle Recordings,3,Hybrid Capacitors,3,Niobium,1,Magnetic Emitter Coil,,
-Booster (Shield),4,Heavy Duty Shield Booster,Didi Vatermann,1,Inconsistent Shield Soak Analysis,3,Electrochemical Arrays,2,Tin,1,Emergency Power Cells,,
-Booster (Shield),5,Heavy Duty Shield Booster,Didi Vatermann,1,Untypical Shield Scans,2,Polymer Capacitors,2,Antimony,1,Emergency Power Cells,,
-Booster (Shield),1,Kinetic Resistant Shield Booster,Didi Vatermann,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
-Booster (Shield),2,Kinetic Resistant Shield Booster,Didi Vatermann,2,Grid Resistors,2,Germanium,1,Untypical Shield Scans,1,Micro Controllers,,
-Booster (Shield),3,Kinetic Resistant Shield Booster,Didi Vatermann,1,Grid Resistors,1,Hybrid Capacitors,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
-Booster (Shield),1,Resistance Augmented Shield Booster,Didi Vatermann,2,Phosphorus,1,Germanium,1,Shielding Sensors,,,,
-Booster (Shield),2,Resistance Augmented Shield Booster,Didi Vatermann,1,Phosphorus,2,Conductive Components,2,Focus Crystals,1,Compound Shielding,1,Praseodymium
-Booster (Shield),3,Resistance Augmented Shield Booster,Didi Vatermann,1,Phosphorus,3,Conductive Components,2,Focus Crystals,2,Compound Shielding,1,Modular Terminals
-Booster (Shield),4,Resistance Augmented Shield Booster,Didi Vatermann,2,Manganese,3,Conductive Ceramics,2,Refined Focus Crystals,1,Imperial Shielding,1,Radiation Baffle
-Booster (Shield),5,Resistance Augmented Shield Booster,Didi Vatermann,2,Conductive Ceramics,3,Refined Focus Crystals,2,Imperial Shielding,1,Radiation Baffle,,
-Booster (Shield),1,Thermal Resistant Shield Booster,Didi Vatermann,2,Iron,1,Inconsistent Shield Soak Analysis,,,,,,
-Booster (Shield),2,Thermal Resistant Shield Booster,Didi Vatermann,2,Heat Conduction Wiring,2,Germanium,1,Untypical Shield Scans,1,Micro Controllers,,
-Booster (Shield),3,Thermal Resistant Shield Booster,Didi Vatermann,1,Heat Conduction Wiring,1,Heat Dispersion Plate,2,Focus Crystals,1,Aberrant Shield Pattern Analysis,1,Magnetic Emitter Coil
-Distributor,1,High Charge Capacity Power Distributor,Hera Tani,2,Sulphur,1,Zinc,1,Electrochemical Arrays,,,,
-Distributor,2,High Charge Capacity Power Distributor,Hera Tani,2,Specialised Legacy Firmware,2,Chromium,1,High Density Composites,1,Polymer Capacitors,1,Platinum
-Distributor,3,High Charge Capacity Power Distributor,Hera Tani,1,Specialised Legacy Firmware,3,Chromium,2,High Density Composites,2,Polymer Capacitors,1,Modular Terminals
-Distributor,1,Charge Enhanced Power Distributor,Hera Tani,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
-Distributor,2,Charge Enhanced Power Distributor,Hera Tani,2,Specialised Legacy Firmware,2,Chemical Processors,1,Focus Crystals,1,Nanobreakers,,
-Distributor,3,Charge Enhanced Power Distributor,Hera Tani,1,Grid Resistors,2,Modified Consumer Firmware,2,Chemical Distillery,1,Refined Focus Crystals,1,Praseodymium
-Distributor,1,Engine Focused Power Distributor,Hera Tani,2,Sulphur,1,Conductive Components,,,,,,
-Distributor,2,Engine Focused Power Distributor,Hera Tani,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
-Distributor,3,Engine Focused Power Distributor,Hera Tani,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Distributor,1,System Focused Power Distributor,Hera Tani,2,Sulphur,1,Conductive Components,,,,,,
-Distributor,2,System Focused Power Distributor,Hera Tani,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
-Distributor,3,System Focused Power Distributor,Hera Tani,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Distributor,1,Weapon Focused Power Distributor,Hera Tani,2,Sulphur,1,Conductive Components,,,,,,
-Distributor,2,Weapon Focused Power Distributor,Hera Tani,2,Sulphur,2,Conductive Components,1,Electrochemical Arrays,1,Nanobreakers,,
-Distributor,3,Weapon Focused Power Distributor,Hera Tani,1,Conductive Components,2,Selenium,1,Polymer Capacitors,1,Nanobreakers,,
-Distributor,1,Shielded Power Distributor,Hera Tani,1,Worn Shield Emitters,2,Vanadium,,,,,,
-Distributor,2,Shielded Power Distributor,Hera Tani,2,Carbon,2,Shield Emitters,1,High Density Composites,1,CMM Composite,,
-Distributor,3,Shielded Power Distributor,Hera Tani,1,Carbon,3,Shield Emitters,2,High Density Composites,1,Osmium,,
+Power Plant,1,Armoured Power Plant,Felicity Farseer,1,Worn Shield Emitters,2,Vanadium,,,,,,
+Power Plant,1,Armoured Power Plant,Marco Qwent,1,Worn Shield Emitters,2,Vanadium,,,,,,
 Power Plant,1,Armoured Power Plant,Hera Tani,1,Worn Shield Emitters,2,Vanadium,,,,,,
+Power Plant,2,Armoured Power Plant,Marco Qwent,2,Carbon,2,Shield Emitters,1,High Density Composites,1,Osmium,,
 Power Plant,2,Armoured Power Plant,Hera Tani,2,Carbon,2,Shield Emitters,1,High Density Composites,1,Osmium,,
+Power Plant,3,Armoured Power Plant,Marco Qwent,1,Carbon,2,Shield Emitters,2,High Density Composites,1,CMM Composite,,
 Power Plant,3,Armoured Power Plant,Hera Tani,1,Carbon,2,Shield Emitters,2,High Density Composites,1,CMM Composite,,
+Power Plant,4,Armoured Power Plant,Marco Qwent,1,Vanadium,2,Shielding Sensors,1,Proprietary Composites,1,CMM Composite,,
 Power Plant,4,Armoured Power Plant,Hera Tani,1,Vanadium,2,Shielding Sensors,1,Proprietary Composites,1,CMM Composite,,
 Power Plant,5,Armoured Power Plant,Hera Tani,1,Tungsten,2,Compound Shielding,1,Core Dynamics Composites,1,Reinforced Mounting Plate,,
+Power Plant,1,Low Emissions Power Plant,Felicity Farseer,1,Iron,2,Heat Dispersion Plate,,,,,,
+Power Plant,1,Low Emissions Power Plant,Marco Qwent,1,Iron,2,Heat Dispersion Plate,,,,,,
+Power Plant,1,Low Emissions Power Plant,Hera Tani,1,Iron,2,Heat Dispersion Plate,,,,,,
+Power Plant,2,Low Emissions Power Plant,Marco Qwent,2,Iron,2,Irregular Emission Data,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Power Plant,2,Low Emissions Power Plant,Hera Tani,2,Iron,2,Irregular Emission Data,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Power Plant,3,Low Emissions Power Plant,Marco Qwent,1,Iron,2,Irregular Emission Data,2,Heat Exchangers,1,Samarium,,
+Power Plant,3,Low Emissions Power Plant,Hera Tani,1,Iron,2,Irregular Emission Data,2,Heat Exchangers,1,Samarium,,
+Power Plant,1,Overcharged Power Plant,Felicity Farseer,2,Sulphur,1,Conductive Components,1,Chemical Distillery,,,,
+Power Plant,1,Overcharged Power Plant,Marco Qwent,2,Sulphur,1,Conductive Components,1,Chemical Distillery,,,,
 Power Plant,1,Overcharged Power Plant,Hera Tani,2,Sulphur,1,Conductive Components,1,Chemical Distillery,,,,
+Power Plant,2,Overcharged Power Plant,Marco Qwent,2,Heat Conduction Wiring,2,Conductive Components,1,Selenium,1,Chemical Manipulators,1,Platinum
 Power Plant,2,Overcharged Power Plant,Hera Tani,2,Heat Conduction Wiring,2,Conductive Components,1,Selenium,1,Chemical Manipulators,1,Platinum
+Power Plant,3,Overcharged Power Plant,Marco Qwent,1,Heat Conduction Wiring,2,Conductive Components,2,Selenium,2,Chemical Manipulators,1,Emergency Power Cells
 Power Plant,3,Overcharged Power Plant,Hera Tani,1,Heat Conduction Wiring,2,Conductive Components,2,Selenium,2,Chemical Manipulators,1,Emergency Power Cells
+Power Plant,4,Overcharged Power Plant,Marco Qwent,1,Heat Dispersion Plate,2,Conductive Ceramics,2,Cadmium,1,Pharmaceutical Isolators,1,Energy Grid Assembly
 Power Plant,4,Overcharged Power Plant,Hera Tani,1,Heat Dispersion Plate,2,Conductive Ceramics,2,Cadmium,1,Pharmaceutical Isolators,1,Energy Grid Assembly
 Power Plant,5,Overcharged Power Plant,Hera Tani,1,Conductive Ceramics,2,Cadmium,2,Pharmaceutical Isolators,1,Energy Grid Assembly,,
-Power Plant,1,Low Emissions Power Plant,Hera Tani,1,Iron,2,Heat Dispersion Plate,,,,,,
-Power Plant,2,Low Emissions Power Plant,Hera Tani,2,Iron,2,Irregular Emission Data,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Power Plant,3,Low Emissions Power Plant,Hera Tani,1,Iron,2,Irregular Emission Data,2,Heat Exchangers,1,Samarium,,
-Mine Launcher,1,High Capacity Magazine,Juri Ishmaak,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Mine Launcher,2,High Capacity Magazine,Juri Ishmaak,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Mine Launcher,3,High Capacity Magazine,Juri Ishmaak,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
-Mine Launcher,4,High Capacity Magazine,Juri Ishmaak,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
-Mine Launcher,1,Rapid Fire Modification,Juri Ishmaak,2,Mechanical Scrap,2,Heat Dispersion Plate,,,,,,
-Mine Launcher,2,Rapid Fire Modification,Juri Ishmaak,3,Mechanical Scrap,2,Heat Dispersion Plate,1,Tungsten,1,HN Shock Mount,,
-Mine Launcher,3,Rapid Fire Modification,Juri Ishmaak,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Precipitated Alloys,1,Molybdenum,1,Osmium
-Mine Launcher,4,Rapid Fire Modification,Juri Ishmaak,1,Modified Consumer Firmware,1,Mechanical Components,2,Thermic Alloys,1,Technetium,1,Telemetry Suite
-Mine Launcher,1,Light Weight Mount,Juri Ishmaak,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Mine Launcher,2,Light Weight Mount,Juri Ishmaak,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Mine Launcher,3,Light Weight Mount,Juri Ishmaak,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Mine Launcher,4,Light Weight Mount,Juri Ishmaak,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
-Mine Launcher,1,Sturdy Mount,Juri Ishmaak,2,Nickel,1,Vanadium,,,,,,
-Mine Launcher,2,Sturdy Mount,Juri Ishmaak,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Mine Launcher,3,Sturdy Mount,Juri Ishmaak,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Mine Launcher,4,Sturdy Mount,Juri Ishmaak,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
-Torpedo Pylon,1,Light Weight Mount,Juri Ishmaak,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Torpedo Pylon,2,Light Weight Mount,Juri Ishmaak,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Torpedo Pylon,3,Light Weight Mount,Juri Ishmaak,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Torpedo Pylon,1,Sturdy Mount,Juri Ishmaak,2,Nickel,1,Vanadium,,,,,,
-Torpedo Pylon,2,Sturdy Mount,Juri Ishmaak,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Torpedo Pylon,3,Sturdy Mount,Juri Ishmaak,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-Seeker Missile Rack,1,High Capacity Magazine,Juri Ishmaak,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
-Seeker Missile Rack,2,High Capacity Magazine,Juri Ishmaak,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
-Seeker Missile Rack,3,High Capacity Magazine,Juri Ishmaak,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
-Seeker Missile Rack,1,Rapid Fire Modification,Juri Ishmaak,2,Mechanical Scrap,2,Heat Dispersion Plate,,,,,,
-Seeker Missile Rack,2,Rapid Fire Modification,Juri Ishmaak,3,Mechanical Scrap,2,Heat Dispersion Plate,1,Tungsten,1,HN Shock Mount,,
-Seeker Missile Rack,3,Rapid Fire Modification,Juri Ishmaak,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Precipitated Alloys,1,Molybdenum,1,Osmium
-Seeker Missile Rack,1,Light Weight Mount,Juri Ishmaak,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Seeker Missile Rack,2,Light Weight Mount,Juri Ishmaak,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Seeker Missile Rack,3,Light Weight Mount,Juri Ishmaak,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Seeker Missile Rack,1,Sturdy Mount,Juri Ishmaak,2,Nickel,1,Vanadium,,,,,,
-Seeker Missile Rack,2,Sturdy Mount,Juri Ishmaak,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Seeker Missile Rack,3,Sturdy Mount,Juri Ishmaak,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
-FSD,1,Faster FSD Boot Sequence,Bris Dekker,2,Grid Resistors,2,Heat Dispersion Plate,,,,,,
-FSD,2,Faster FSD Boot Sequence,Bris Dekker,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Micro Controllers,,
-FSD,3,Faster FSD Boot Sequence,Bris Dekker,1,Sulphur,2,Hybrid Capacitors,2,Heat Exchangers,1,Security Firmware Patch,1,Hardware Diagnostic Sensor
-FSD,1,Increased FSD Range,Bris Dekker,2,Atypical Disrupted Wake Echoes,2,Chemical Processors,1,Arsenic,,,,
-FSD,2,Increased FSD Range,Bris Dekker,3,Atypical Disrupted Wake Echoes,2,Chemical Processors,2,Arsenic,1,Praseodymium,,
-FSD,3,Increased FSD Range,Bris Dekker,2,Atypical Disrupted Wake Echoes,3,Chemical Processors,2,Selenium,1,Yttrium,1,Modular Terminals
-FSD,1,Shielded FSD,Bris Dekker,1,Nickel,2,Shield Emitters,,,,,,
-FSD,2,Shielded FSD,Bris Dekker,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Insulating Membrane,,
-FSD,3,Shielded FSD,Bris Dekker,1,Carbon,2,Filament Composites,2,Shielding Sensors,1,Micro-Weave Cooling Hoses,,
-Interdictor (FSD),1,Expanded FSD Interdictor Capture Arc,Bris Dekker,2,Mechanical Scrap,1,Anomalous FSD Telemetry,,,,,,
-Interdictor (FSD),2,Expanded FSD Interdictor Capture Arc,Bris Dekker,2,Grid Resistors,2,Mechanical Equipment,1,Strange Wake Solutions,,,,
-Interdictor (FSD),3,Expanded FSD Interdictor Capture Arc,Bris Dekker,1,Grid Resistors,1,Hybrid Capacitors,2,Mechanical Components,1,Eccentric Hyperspace Trajectories,,
-Interdictor (FSD),4,Expanded FSD Interdictor Capture Arc,Bris Dekker,2,Mechanical Components,2,Eccentric Hyperspace Trajectories,,,,,,
-Interdictor (FSD),1,Longer Range FSD Interdictor,Bris Dekker,2,Iron,1,Tagged Encryption Codes,,,,,,
-Interdictor (FSD),2,Longer Range FSD Interdictor,Bris Dekker,2,Grid Resistors,2,Anomalous FSD Telemetry,1,Open Symmetric Keys,,,,
-Interdictor (FSD),3,Longer Range FSD Interdictor,Bris Dekker,1,Iron,1,Hybrid Capacitors,2,Strange Wake Solutions,1,Atypical Encryption Archives,1,Nanobreakers
-Burst Laser,1,Efficient Weapon,Broo Tarquin,1,Sulphur,2,Heat Dispersion Plate,,,,,,
-Burst Laser,2,Efficient Weapon,Broo Tarquin,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
-Burst Laser,3,Efficient Weapon,Broo Tarquin,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
-Burst Laser,1,Light Weight Mount,Broo Tarquin,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Burst Laser,2,Light Weight Mount,Broo Tarquin,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
-Burst Laser,3,Light Weight Mount,Broo Tarquin,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
-Burst Laser,1,Long Range Weapon,Broo Tarquin,2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Burst Laser,2,Long Range Weapon,Broo Tarquin,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
-Burst Laser,3,Long Range Weapon,Broo Tarquin,1,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Conductive Polymers,1,Neofabric Insulation
-Burst Laser,1,Overcharged Weapon,Broo Tarquin,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
-Burst Laser,2,Overcharged Weapon,Broo Tarquin,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
-Burst Laser,3,Overcharged Weapon,Broo Tarquin,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
-Burst Laser,1,Short Range Blaster,Broo Tarquin,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Burst Laser,2,Short Range Blaster,Broo Tarquin,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
-Burst Laser,3,Short Range Blaster,Broo Tarquin,1,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Conductive Polymers,1,Neofabric Insulation
-Burst Laser,1,Sturdy Mount,Broo Tarquin,2,Nickel,1,Vanadium,,,,,,
-Burst Laser,2,Sturdy Mount,Broo Tarquin,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
-Burst Laser,3,Sturdy Mount,Broo Tarquin,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Pulse Laser,1,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,,,,,,
 Pulse Laser,1,Efficient Weapon,Broo Tarquin,1,Sulphur,2,Heat Dispersion Plate,,,,,,
+Pulse Laser,2,Efficient Weapon,The Dweller,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
 Pulse Laser,2,Efficient Weapon,Broo Tarquin,1,Sulphur,2,Heat Dispersion Plate,1,Heat Exchangers,1,Micro-Weave Cooling Hoses,,
+Pulse Laser,3,Efficient Weapon,The Dweller,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
 Pulse Laser,3,Efficient Weapon,Broo Tarquin,2,Heat Conduction Wiring,2,Chromium,2,Heat Exchangers,1,Samarium,,
 Pulse Laser,4,Efficient Weapon,Broo Tarquin,1,Heat Dispersion Plate,2,Selenium,1,Heat Vanes,1,Heatsink Interlink,,
+Pulse Laser,1,Focused Weapon,The Dweller,1,Iron,1,Conductive Components,1,Electrochemical Arrays,,,,
 Pulse Laser,1,Focused Weapon,Broo Tarquin,1,Iron,1,Conductive Components,1,Electrochemical Arrays,,,,
+Pulse Laser,2,Focused Weapon,The Dweller,2,Iron,2,Conductive Components,2,Electrochemical Arrays,1,Micro Controllers,,
 Pulse Laser,2,Focused Weapon,Broo Tarquin,2,Iron,2,Conductive Components,2,Electrochemical Arrays,1,Micro Controllers,,
+Pulse Laser,3,Focused Weapon,The Dweller,1,Iron,3,Chromium,2,Conductive Ceramics,1,Polymer Capacitors,1,Platinum
 Pulse Laser,3,Focused Weapon,Broo Tarquin,1,Iron,3,Chromium,2,Conductive Ceramics,1,Polymer Capacitors,1,Platinum
 Pulse Laser,4,Focused Weapon,Broo Tarquin,2,Germanium,3,Focus Crystals,2,Polymer Capacitors,1,Nanobreakers,,
+Pulse Laser,1,Light Weight Mount,The Dweller,2,Phosphorus,1,Galvanising Alloys,,,,,,
 Pulse Laser,1,Light Weight Mount,Broo Tarquin,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Pulse Laser,2,Light Weight Mount,The Dweller,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
 Pulse Laser,2,Light Weight Mount,Broo Tarquin,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Pulse Laser,3,Light Weight Mount,The Dweller,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
 Pulse Laser,3,Light Weight Mount,Broo Tarquin,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
 Pulse Laser,4,Light Weight Mount,Broo Tarquin,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
+Pulse Laser,1,Overcharged Weapon,The Dweller,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
 Pulse Laser,1,Overcharged Weapon,Broo Tarquin,1,Nickel,1,Hybrid Capacitors,1,Cracked Industrial Firmware,,,,
+Pulse Laser,2,Overcharged Weapon,The Dweller,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
 Pulse Laser,2,Overcharged Weapon,Broo Tarquin,1,Nickel,2,Conductive Components,1,Electrochemical Arrays,1,Security Firmware Patch,1,Praseodymium
+Pulse Laser,3,Overcharged Weapon,The Dweller,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
 Pulse Laser,3,Overcharged Weapon,Broo Tarquin,1,Nickel,2,Conductive Components,2,Electrochemical Arrays,2,Security Firmware Patch,1,Articulation Motors
 Pulse Laser,4,Overcharged Weapon,Broo Tarquin,1,Zinc,2,Conductive Ceramics,2,Polymer Capacitors,1,Modified Embedded Firmware,1,Articulation Motors
+Pulse Laser,1,Sturdy Mount,The Dweller,2,Nickel,1,Vanadium,,,,,,
 Pulse Laser,1,Sturdy Mount,Broo Tarquin,2,Nickel,1,Vanadium,,,,,,
+Pulse Laser,2,Sturdy Mount,The Dweller,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
 Pulse Laser,2,Sturdy Mount,Broo Tarquin,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Pulse Laser,3,Sturdy Mount,The Dweller,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
 Pulse Laser,3,Sturdy Mount,Broo Tarquin,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
 Pulse Laser,4,Sturdy Mount,Broo Tarquin,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
-Beam Laser,1,Light Weight Mount,Broo Tarquin,2,Phosphorus,1,Galvanising Alloys,,,,,,
-Beam Laser,1,Long Range Weapon,Broo Tarquin,2,Sulphur,1,Modified Consumer Firmware,,,,,,
-Beam Laser,1,Short Range Blaster,Broo Tarquin,2,Nickel,1,Modified Consumer Firmware,,,,,,
-Beam Laser,1,Sturdy Mount,Broo Tarquin,2,Nickel,1,Vanadium,,,,,,
+Rail Gun,1,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Rail Gun,2,High Capacity Magazine,Tod ""The Blaster"" McQuinn,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Rail Gun,1,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Rail Gun,2,Light Weight Mount,Tod ""The Blaster"" McQuinn,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Rail Gun,1,Long Range Weapon,Tod ""The Blaster"" McQuinn,2,Sulphur,1,Modified Consumer Firmware,,,,,,
+Rail Gun,2,Long Range Weapon,Tod ""The Blaster"" McQuinn,2,Sulphur,2,Modified Consumer Firmware,1,Focus Crystals,1,Insulating Membrane,,
+Rail Gun,1,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,1,Modified Consumer Firmware,,,,,,
+Rail Gun,2,Short Range Blaster,Tod ""The Blaster"" McQuinn,2,Nickel,2,Modified Consumer Firmware,1,Electrochemical Arrays,1,Insulating Membrane,,
+Rail Gun,1,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,1,Vanadium,,,,,,
+Rail Gun,2,Sturdy Mount,Tod ""The Blaster"" McQuinn,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Seeker Missile Rack,1,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Seeker Missile Rack,1,High Capacity Magazine,Juri Ishmaak,2,Mechanical Scrap,1,Vanadium,1,Electrochemical Arrays,,,,
+Seeker Missile Rack,2,High Capacity Magazine,Liz Ryder,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Seeker Missile Rack,2,High Capacity Magazine,Juri Ishmaak,2,Mechanical Scrap,2,Vanadium,1,Niobium,1,Polymer Capacitors,1,CMM Composite
+Seeker Missile Rack,3,High Capacity Magazine,Liz Ryder,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+Seeker Missile Rack,3,High Capacity Magazine,Juri Ishmaak,1,Mechanical Scrap,3,Vanadium,2,Niobium,1,Polymer Capacitors,1,Reinforced Mounting Plate
+Seeker Missile Rack,4,High Capacity Magazine,Liz Ryder,1,Mechanical Equipment,3,High Density Composites,1,Tin,1,Military Supercapacitors,1,Reinforced Mounting Plate
+Seeker Missile Rack,1,Light Weight Mount,Liz Ryder,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Seeker Missile Rack,1,Light Weight Mount,Juri Ishmaak,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Seeker Missile Rack,2,Light Weight Mount,Liz Ryder,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Seeker Missile Rack,2,Light Weight Mount,Juri Ishmaak,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Seeker Missile Rack,3,Light Weight Mount,Liz Ryder,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Seeker Missile Rack,3,Light Weight Mount,Juri Ishmaak,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Seeker Missile Rack,4,Light Weight Mount,Liz Ryder,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
+Seeker Missile Rack,1,Rapid Fire Modification,Liz Ryder,2,Mechanical Scrap,2,Heat Dispersion Plate,,,,,,
+Seeker Missile Rack,1,Rapid Fire Modification,Juri Ishmaak,2,Mechanical Scrap,2,Heat Dispersion Plate,,,,,,
+Seeker Missile Rack,2,Rapid Fire Modification,Liz Ryder,3,Mechanical Scrap,2,Heat Dispersion Plate,1,Tungsten,1,HN Shock Mount,,
+Seeker Missile Rack,2,Rapid Fire Modification,Juri Ishmaak,3,Mechanical Scrap,2,Heat Dispersion Plate,1,Tungsten,1,HN Shock Mount,,
+Seeker Missile Rack,3,Rapid Fire Modification,Liz Ryder,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Precipitated Alloys,1,Molybdenum,1,Osmium
+Seeker Missile Rack,3,Rapid Fire Modification,Juri Ishmaak,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Precipitated Alloys,1,Molybdenum,1,Osmium
+Seeker Missile Rack,4,Rapid Fire Modification,Liz Ryder,1,Modified Consumer Firmware,1,Mechanical Components,2,Thermic Alloys,1,Technetium,1,Telemetry Suite
+Seeker Missile Rack,1,Sturdy Mount,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
+Seeker Missile Rack,1,Sturdy Mount,Juri Ishmaak,2,Nickel,1,Vanadium,,,,,,
+Seeker Missile Rack,2,Sturdy Mount,Liz Ryder,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Seeker Missile Rack,2,Sturdy Mount,Juri Ishmaak,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Seeker Missile Rack,3,Sturdy Mount,Liz Ryder,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Seeker Missile Rack,3,Sturdy Mount,Juri Ishmaak,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Seeker Missile Rack,4,Sturdy Mount,Liz Ryder,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
+Shield Generator,1,Enhanced Low Power Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,1,Germanium,1,Focus Crystals,,,,
+Shield Generator,1,Enhanced Low Power Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,1,Germanium,1,Focus Crystals,,,,
+Shield Generator,1,Enhanced Low Power Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,1,Germanium,1,Focus Crystals,,,,
+Shield Generator,2,Enhanced Low Power Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,2,Germanium,2,Focus Crystals,1,Micro Controllers,,
+Shield Generator,2,Enhanced Low Power Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,2,Germanium,2,Focus Crystals,1,Micro Controllers,,
+Shield Generator,2,Enhanced Low Power Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,2,Germanium,2,Focus Crystals,1,Micro Controllers,,
+Shield Generator,3,Enhanced Low Power Shields,Elvira Martuuk,1,Distorted Shield Cycle Recordings,2,Germanium,2,Precipitated Alloys,1,Refined Focus Crystals,1,Power Transfer Bus
+Shield Generator,3,Enhanced Low Power Shields,Lei Cheung,1,Distorted Shield Cycle Recordings,2,Germanium,2,Precipitated Alloys,1,Refined Focus Crystals,1,Power Transfer Bus
+Shield Generator,3,Enhanced Low Power Shields,Didi Vatermann,1,Distorted Shield Cycle Recordings,2,Germanium,2,Precipitated Alloys,1,Refined Focus Crystals,1,Power Transfer Bus
+Shield Generator,4,Enhanced Low Power Shields,Lei Cheung,1,Inconsistent Shield Soak Analysis,2,Niobium,3,Thermic Alloys,1,Nanobreakers,,
+Shield Generator,5,Enhanced Low Power Shields,Lei Cheung,2,Untypical Shield Scans,2,Tin,2,Military Grade Alloys,1,Platinum,,
+Shield Generator,1,Kinetic Resistant Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,,,,,,
+Shield Generator,1,Kinetic Resistant Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,,,,,,
+Shield Generator,1,Kinetic Resistant Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,,,,,,
+Shield Generator,2,Kinetic Resistant Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,2,Modified Consumer Firmware,1,Zirconium,1,Micro-Weave Cooling Hoses,,
+Shield Generator,2,Kinetic Resistant Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,2,Modified Consumer Firmware,1,Zirconium,1,Micro-Weave Cooling Hoses,,
+Shield Generator,2,Kinetic Resistant Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,2,Modified Consumer Firmware,1,Zirconium,1,Micro-Weave Cooling Hoses,,
+Shield Generator,3,Kinetic Resistant Shields,Elvira Martuuk,1,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
+Shield Generator,3,Kinetic Resistant Shields,Lei Cheung,1,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,2,Selenium,2,Mercury,1,Micro-Weave Cooling Hoses
+Shield Generator,3,Kinetic Resistant Shields,Didi Vatermann,1,Distorted Shield Cycle Recordings,1,Modified Consumer Firmware,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
+Shield Generator,4,Kinetic Resistant Shields,Lei Cheung,2,Untypical Shield Scans,2,Refined Focus Crystals,1,Ion Distributor,,,,
+Shield Generator,5,Kinetic Resistant Shields,Lei Cheung,2,Aberrant Shield Pattern Analysis,1,Exquisite Focus Crystals,1,Ion Distributor,,,,
+Shield Generator,1,Reinforced Shields,Elvira Martuuk,1,Phosphorus,2,Conductive Components,,,,,,
+Shield Generator,1,Reinforced Shields,Lei Cheung,1,Phosphorus,2,Conductive Components,,,,,,
+Shield Generator,1,Reinforced Shields,Didi Vatermann,1,Phosphorus,2,Conductive Components,,,,,,
+Shield Generator,2,Reinforced Shields,Elvira Martuuk,2,Phosphorus,2,Conductive Components,1,Mechanical Components,1,Modular Terminals,,
+Shield Generator,2,Reinforced Shields,Lei Cheung,2,Phosphorus,2,Conductive Components,1,Mechanical Components,1,Modular Terminals,,
+Shield Generator,2,Reinforced Shields,Didi Vatermann,2,Phosphorus,2,Conductive Components,1,Mechanical Components,1,Modular Terminals,,
+Shield Generator,3,Reinforced Shields,Elvira Martuuk,1,Phosphorus,2,Conductive Components,2,Mechanical Components,1,Magnetic Emitter Coil,,
+Shield Generator,3,Reinforced Shields,Lei Cheung,1,Phosphorus,2,Conductive Components,2,Mechanical Components,1,Magnetic Emitter Coil,,
+Shield Generator,3,Reinforced Shields,Didi Vatermann,1,Phosphorus,2,Conductive Components,2,Mechanical Components,1,Magnetic Emitter Coil,,
+Shield Generator,4,Reinforced Shields,Lei Cheung,1,Manganese,2,Conductive Ceramics,2,Configurable Components,1,Magnetic Emitter Coil,,
+Shield Generator,5,Reinforced Shields,Lei Cheung,1,Arsenic,2,Conductive Polymers,1,Improvised Components,1,Ion Distributor,,
+Shield Generator,1,Thermal Resistant Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,1,Germanium,,,,,,
+Shield Generator,1,Thermal Resistant Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,1,Germanium,,,,,,
+Shield Generator,1,Thermal Resistant Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,1,Germanium,,,,,,
+Shield Generator,2,Thermal Resistant Shields,Elvira Martuuk,2,Distorted Shield Cycle Recordings,2,Germanium,1,Zirconium,1,Micro-Weave Cooling Hoses,,
+Shield Generator,2,Thermal Resistant Shields,Lei Cheung,2,Distorted Shield Cycle Recordings,2,Germanium,1,Zirconium,1,Micro-Weave Cooling Hoses,,
+Shield Generator,2,Thermal Resistant Shields,Didi Vatermann,2,Distorted Shield Cycle Recordings,2,Germanium,1,Zirconium,1,Micro-Weave Cooling Hoses,,
+Shield Generator,3,Thermal Resistant Shields,Elvira Martuuk,1,Distorted Shield Cycle Recordings,1,Germanium,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
+Shield Generator,3,Thermal Resistant Shields,Lei Cheung,1,Distorted Shield Cycle Recordings,1,Germanium,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
+Shield Generator,3,Thermal Resistant Shields,Didi Vatermann,1,Distorted Shield Cycle Recordings,1,Germanium,2,Selenium,1,Mercury,1,Micro-Weave Cooling Hoses
+Shield Generator,4,Thermal Resistant Shields,Lei Cheung,2,Untypical Shield Scans,2,Refined Focus Crystals,1,Ion Distributor,,,,
+Shield Generator,5,Thermal Resistant Shields,Lei Cheung,2,Aberrant Shield Pattern Analysis,1,Exquisite Focus Crystals,1,Ion Distributor,,,,
+Thrusters,1,Clean Drive Tuning,Felicity Farseer,2,Sulphur,1,Irregular Emission Data,1,Niobium,,,,
+Thrusters,1,Clean Drive Tuning,Elvira Martuuk,2,Sulphur,1,Irregular Emission Data,1,Niobium,,,,
+Thrusters,1,Clean Drive Tuning,Professor Palin,2,Sulphur,1,Irregular Emission Data,1,Niobium,,,,
+Thrusters,2,Clean Drive Tuning,Felicity Farseer,1,Specialised Legacy Firmware,2,Conductive Components,2,Unexpected Emission Data,1,Tin,1,Samarium
+Thrusters,2,Clean Drive Tuning,Elvira Martuuk,1,Specialised Legacy Firmware,2,Conductive Components,2,Unexpected Emission Data,1,Tin,1,Samarium
+Thrusters,2,Clean Drive Tuning,Professor Palin,1,Specialised Legacy Firmware,2,Conductive Components,2,Unexpected Emission Data,1,Tin,1,Samarium
+Thrusters,3,Clean Drive Tuning,Felicity Farseer,1,Specialised Legacy Firmware,3,Conductive Components,2,Unexpected Emission Data,2,Tin,1,Power Converter
+Thrusters,3,Clean Drive Tuning,Professor Palin,1,Specialised Legacy Firmware,3,Conductive Components,2,Unexpected Emission Data,2,Tin,1,Power Converter
+Thrusters,4,Clean Drive Tuning,Professor Palin,2,Modified Consumer Firmware,3,Conductive Ceramics,2,Decoded Emission Data,1,Antimony,1,Power Converter
+Thrusters,5,Clean Drive Tuning,Professor Palin,2,Conductive Ceramics,3,Decoded Emission Data,2,Antimony,1,Magnetic Emitter Coil,,
+Thrusters,1,Dirty Drive Tuning,Felicity Farseer,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
+Thrusters,1,Dirty Drive Tuning,Elvira Martuuk,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
+Thrusters,1,Dirty Drive Tuning,Professor Palin,2,Specialised Legacy Firmware,2,Chemical Processors,,,,,,
+Thrusters,2,Dirty Drive Tuning,Felicity Farseer,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Chemical Distillery,1,Modular Terminals,,
+Thrusters,2,Dirty Drive Tuning,Elvira Martuuk,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Chemical Distillery,1,Modular Terminals,,
+Thrusters,2,Dirty Drive Tuning,Professor Palin,2,Specialised Legacy Firmware,2,Mechanical Equipment,1,Chemical Distillery,1,Modular Terminals,,
+Thrusters,3,Dirty Drive Tuning,Felicity Farseer,1,Specialised Legacy Firmware,2,Chromium,2,Mechanical Components,1,Chemical Manipulators,1,Micro-Weave Cooling Hoses
+Thrusters,3,Dirty Drive Tuning,Professor Palin,1,Specialised Legacy Firmware,2,Chromium,2,Mechanical Components,1,Chemical Manipulators,1,Micro-Weave Cooling Hoses
+Thrusters,4,Dirty Drive Tuning,Professor Palin,2,Modified Consumer Firmware,3,Selenium,2,Configurable Components,1,Pharmaceutical Isolators,1,Heatsink Interlink
+Thrusters,5,Dirty Drive Tuning,Professor Palin,2,Cracked Industrial Firmware,2,Cadmium,2,Pharmaceutical Isolators,1,Exhaust Manifold,,
+Thrusters,1,Drive Strengthening,Felicity Farseer,1,Carbon,2,Shield Emitters,,,,,,
+Thrusters,1,Drive Strengthening,Elvira Martuuk,1,Carbon,2,Shield Emitters,,,,,,
+Thrusters,1,Drive Strengthening,Professor Palin,1,Carbon,2,Shield Emitters,,,,,,
+Thrusters,2,Drive Strengthening,Felicity Farseer,2,Heat Conduction Wiring,2,Vanadium,1,Shielding Sensors,1,Osmium,,
+Thrusters,2,Drive Strengthening,Elvira Martuuk,2,Heat Conduction Wiring,2,Vanadium,1,Shielding Sensors,1,Osmium,,
+Thrusters,2,Drive Strengthening,Professor Palin,2,Heat Conduction Wiring,2,Vanadium,1,Shielding Sensors,1,Osmium,,
+Thrusters,3,Drive Strengthening,Felicity Farseer,1,Heat Conduction Wiring,3,Vanadium,2,Shielding Sensors,1,CMM Composite,,
+Thrusters,3,Drive Strengthening,Professor Palin,1,Heat Conduction Wiring,3,Vanadium,2,Shielding Sensors,1,CMM Composite,,
+Thrusters,4,Drive Strengthening,Professor Palin,1,Heat Dispersion Plate,3,High Density Composites,1,Compound Shielding,1,CMM Composite,,
+Thrusters,5,Drive Strengthening,Professor Palin,1,Heat Exchangers,2,Proprietary Composites,1,Imperial Shielding,1,Articulation Motors,,
+Torpedo Pylon,1,Light Weight Mount,Liz Ryder,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Torpedo Pylon,1,Light Weight Mount,Juri Ishmaak,2,Phosphorus,1,Galvanising Alloys,,,,,,
+Torpedo Pylon,2,Light Weight Mount,Liz Ryder,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Torpedo Pylon,2,Light Weight Mount,Juri Ishmaak,2,Heat Conduction Wiring,2,Manganese,1,Phase Alloys,1,CMM Composite,,
+Torpedo Pylon,3,Light Weight Mount,Liz Ryder,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Torpedo Pylon,3,Light Weight Mount,Juri Ishmaak,1,Heat Conduction Wiring,1,Manganese,2,Conductive Ceramics,1,Proto Light Alloys,1,CMM Composite
+Torpedo Pylon,4,Light Weight Mount,Liz Ryder,2,Conductive Ceramics,2,Proto Light Alloys,1,Magnetic Emitter Coil,,,,
+Torpedo Pylon,1,Sturdy Mount,Liz Ryder,2,Nickel,1,Vanadium,,,,,,
+Torpedo Pylon,1,Sturdy Mount,Juri Ishmaak,2,Nickel,1,Vanadium,,,,,,
+Torpedo Pylon,2,Sturdy Mount,Liz Ryder,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Torpedo Pylon,2,Sturdy Mount,Juri Ishmaak,2,Nickel,2,Shield Emitters,1,Tungsten,1,HN Shock Mount,,
+Torpedo Pylon,3,Sturdy Mount,Liz Ryder,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Torpedo Pylon,3,Sturdy Mount,Juri Ishmaak,2,Zinc,2,Shielding Sensors,1,Molybdenum,1,Osmium,,
+Torpedo Pylon,4,Sturdy Mount,Liz Ryder,2,High Density Composites,2,Molybdenum,1,Osmium,,,,
